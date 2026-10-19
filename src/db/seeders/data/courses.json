@@ -1,0 +1,4176 @@
+[
+  {
+    "id": 1,
+    "name": "3D Animator",
+    "lessons": [
+      {
+        "id": 1,
+        "name": "What is Computer?",
+        "number": 1,
+        "objectives": [
+          "Introducing what is computer and its parts",
+          "Knowing how to maintain Gadget to prevent damage"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Play with Alphabet",
+        "number": 2,
+        "objectives": [
+          "Typing practice in Computer",
+          "Knowing the importance of Media Balance"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Coding is a Language",
+        "number": 3,
+        "objectives": [
+          "Introduction of Coding as a Computer Language",
+          "How to reduce Screen Time"
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Introduction to Robot",
+        "number": 4,
+        "objectives": ["Introducing Robot", "Moving Robot with Coding"]
+      },
+      {
+        "id": 5,
+        "name": "What is Event?",
+        "number": 5,
+        "objectives": [
+          "Introduction to Event concept in Coding",
+          "Moving Robot using Event concept"
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Looping with Scrat",
+        "number": 6,
+        "objectives": [
+          "Introduction to Loop concept",
+          "Implementing Loop code to Coding Game"
+        ]
+      },
+      {
+        "id": 7,
+        "name": "Coding Animation in ScratchJr",
+        "number": 7,
+        "objectives": [
+          "Introduction to ScratchJr",
+          "Learn to make an animation in ScratchJr"
+        ]
+      },
+      {
+        "id": 8,
+        "name": "Overview & Challenge 1",
+        "number": 8,
+        "objectives": ["Review Lesson 1-7", "Coding Challenge"]
+      },
+      {
+        "id": 9,
+        "name": "Rocket to the Moon",
+        "number": 9,
+        "objectives": [
+          "Use \"Grid Mode\" to see a character's position in ScratchJr",
+          "Creating an animation of a rocket flying to the moon"
+        ]
+      },
+      {
+        "id": 10,
+        "name": "Send the Message in ScratchJr",
+        "number": 10,
+        "objectives": [
+          "Understanding the Function of Message Code in ScratchJr",
+          "Create animal race animation in ScratchJr"
+        ]
+      },
+      {
+        "id": 11,
+        "name": "Bugs on The Internet",
+        "number": 11,
+        "objectives": [
+          "Understanding the benefits of using Internet",
+          "Learn how to do Debugging"
+        ]
+      },
+      {
+        "id": 12,
+        "name": "Play with Shapes",
+        "number": 12,
+        "objectives": [
+          "Learning while playing with shapes",
+          "Understanding what can be shared on the internet"
+        ]
+      },
+      {
+        "id": 13,
+        "name": "Moving Shapes!",
+        "number": 13,
+        "objectives": [
+          "Recalling Buttons on Robot",
+          "Moving Robot using Coding"
+        ]
+      },
+      {
+        "id": 14,
+        "name": "Basketball Animation",
+        "number": 14,
+        "objectives": [
+          "Practice to make Animation in ScratchJr",
+          "Create Basketball Animation"
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Animation Project in ScratchJr",
+        "number": 15,
+        "objectives": ["Create the Final Project in ScratchJr"]
+      },
+      {
+        "id": 16,
+        "name": "Overview & Challenge 2",
+        "number": 16,
+        "objectives": ["Review Lesson 9-15", "Coding Challenge"]
+      },
+      {
+        "id": 17,
+        "name": "My Own 3D World",
+        "number": 17,
+        "objectives": [
+          "Understanding what is 3D Game",
+          "Learn how to make 3D Game in Kodu"
+        ]
+      },
+      {
+        "id": 18,
+        "name": "Underwater 3D Game",
+        "number": 18,
+        "objectives": ["3D game practice", "Create Underwater World in Kodu"]
+      },
+      {
+        "id": 19,
+        "name": "Condition for Robot's Censor",
+        "number": 19,
+        "objectives": [
+          "Introduction to Conditional concept in Coding",
+          "Code the censor in Robot"
+        ]
+      },
+      {
+        "id": 20,
+        "name": "Cycle Race in Kodu",
+        "number": 20,
+        "objectives": ["3D game practice", "Create Racing Game in Kodu"]
+      },
+      {
+        "id": 21,
+        "name": "The Ground is Lava",
+        "number": 21,
+        "objectives": [
+          "Practice 3D Game",
+          "Completing the Coding on the provided project"
+        ]
+      },
+      {
+        "id": 22,
+        "name": "Clap Censor in Robot",
+        "number": 22,
+        "objectives": [
+          "Introduction to another censor in Robot",
+          "Coding practice with clap and voice censors"
+        ]
+      },
+      {
+        "id": 23,
+        "name": "3D World Project",
+        "number": 23,
+        "objectives": [
+          "Create a design plan for Final Project in 3D Game",
+          "Create Final Project 3D Game in Kodu"
+        ]
+      },
+      {
+        "id": 24,
+        "name": "Overview & Challenge 3",
+        "number": 24,
+        "objectives": ["Review Lesson 17-23", "Coding Challenge"]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Website Designer",
+    "lessons": [
+      {
+        "id": 25,
+        "name": "What is Conditional Loop?",
+        "number": 1,
+        "objectives": [
+          "Learn the concept of Conditional Loop in Coding",
+          "Move the Robot with Coding"
+        ]
+      },
+      {
+        "id": 26,
+        "name": "Introduction to Virtual Reality",
+        "number": 2,
+        "objectives": [
+          "Knowing what Virtual Reality (VR) is",
+          "Learn to create VR with Delightex"
+        ]
+      },
+      {
+        "id": 27,
+        "name": "My Virtual City in Delightex",
+        "number": 3,
+        "objectives": [
+          "Practice creating Virtual Reality",
+          "Create virtual city in Delightex"
+        ]
+      },
+      {
+        "id": 28,
+        "name": "Function in Robot",
+        "number": 4,
+        "objectives": [
+          "Learn the concept of Function in Coding",
+          "Move the Robot with Function"
+        ]
+      },
+      {
+        "id": 29,
+        "name": "What is AR ?",
+        "number": 5,
+        "objectives": [
+          "Introduction to Augmented Reality (AR)",
+          "Design AR with Delightex"
+        ]
+      },
+      {
+        "id": 30,
+        "name": "My Virtual House",
+        "number": 6,
+        "objectives": [
+          "Practice creating a VR in Delightex",
+          "Create a Virtual House in VR"
+        ]
+      },
+      {
+        "id": 31,
+        "name": "Final Virtual Reality Project",
+        "number": 7,
+        "objectives": ["Creating a final Virtual Reality project"]
+      },
+      {
+        "id": 32,
+        "name": "Overview & Challenge",
+        "number": 8,
+        "objectives": ["Review Lesson 1-7", "Coding Test"]
+      },
+      {
+        "id": 33,
+        "name": "Design the Aquarium in AR",
+        "number": 9,
+        "objectives": [
+          "Practice creating AR designs & Coding",
+          "Create an AR aquarium with Delightex"
+        ]
+      },
+      {
+        "id": 34,
+        "name": "My Cube Profile Project 1",
+        "number": 10,
+        "objectives": [
+          "Create an AR aquarium with Delightex",
+          "Starting the final AR project"
+        ]
+      },
+      {
+        "id": 35,
+        "name": "My Cube Profile Project 2",
+        "number": 11,
+        "objectives": ["Complete the final AR project"]
+      },
+      {
+        "id": 36,
+        "name": "How to make a Website?",
+        "number": 12,
+        "objectives": [
+          "Get to know what a Website is",
+          "Learn to make a simple Website"
+        ]
+      },
+      {
+        "id": 37,
+        "name": "My Final Website Project",
+        "number": 13,
+        "objectives": [
+          "Start working on the final website project",
+          "Adding biodata & project layouts"
+        ]
+      },
+      {
+        "id": 38,
+        "name": "Continue My Final Website Project",
+        "number": 14,
+        "objectives": [
+          "Continue the final website project",
+          "Adding pages to the Website"
+        ]
+      },
+      {
+        "id": 39,
+        "name": "Buttons on My Website",
+        "number": 15,
+        "objectives": [
+          "Continue the website project",
+          "Adding a Button on the Website"
+        ]
+      },
+      {
+        "id": 40,
+        "name": "Time to present my projects",
+        "number": 16,
+        "objectives": [
+          "Finish and publish the website project",
+          "Create a project presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Virtual World Maker",
+    "lessons": [
+      {
+        "id": 41,
+        "name": "Remembering Algorithms in Coding",
+        "number": 1,
+        "objectives": [
+          "Remember Coding as a computer language",
+          "Practice Coding according to the correct Algorithm"
+        ]
+      },
+      {
+        "id": 42,
+        "name": "Event While Screen Time",
+        "number": 2,
+        "objectives": [
+          "Learn how to limit Screen Time",
+          "Recalling what an Event is in Coding"
+        ]
+      },
+      {
+        "id": 43,
+        "name": "Cyber Bullying & Loop",
+        "number": 3,
+        "objectives": [
+          "Preventing Cyber ​​Bullying",
+          "Recalling what a Loop is in Coding"
+        ]
+      },
+      {
+        "id": 44,
+        "name": "Introduction to Another Scratch",
+        "number": 4,
+        "objectives": [
+          "Learn to create animations in Scratch",
+          "Explore how to operate Scratch 3.0"
+        ]
+      },
+      {
+        "id": 45,
+        "name": "Conditions When with Astronaut",
+        "number": 5,
+        "objectives": [
+          "Recalling Conditional concept in Coding",
+          "Practice moving character with If code"
+        ]
+      },
+      {
+        "id": 46,
+        "name": "Media Balance with Robot",
+        "number": 6,
+        "objectives": [
+          "Learn the importance of Media Balance",
+          "Programming robots with new platforms"
+        ]
+      },
+      {
+        "id": 47,
+        "name": "Message In The Sky",
+        "number": 7,
+        "objectives": [
+          "Know the difference between direct and online communication",
+          "Get to know and control drones virtually"
+        ]
+      },
+      {
+        "id": 48,
+        "name": "Exam & Coding Test 1",
+        "number": 8,
+        "objectives": ["Written Exam", "Coding Test"]
+      },
+      {
+        "id": 49,
+        "name": "Hunting Bug",
+        "number": 9,
+        "objectives": [
+          "Identify a bug in a program",
+          "Create a Bug Hunter game using the Conditional concept"
+        ]
+      },
+      {
+        "id": 50,
+        "name": "Gliding Beetle",
+        "number": 10,
+        "objectives": [
+          "Using \"Glide\" to move the Sprites",
+          "Make a Beetle Race Game in Scratch"
+        ]
+      },
+      {
+        "id": 51,
+        "name": "Function of Copyright",
+        "number": 11,
+        "objectives": [
+          "Recalling about Copyright",
+          "Implementing Function codes in Coding Games"
+        ]
+      },
+      {
+        "id": 52,
+        "name": "Function in Robot",
+        "number": 12,
+        "objectives": [
+          "Remembering what is Function in Coding",
+          "Implementing Function concept in Robots"
+        ]
+      },
+      {
+        "id": 53,
+        "name": "Never Give Up On Conditional Loop",
+        "number": 13,
+        "objectives": [
+          "The importance of keep trying & never giving up",
+          "Get to know the Conditional Loop in Coding"
+        ]
+      },
+      {
+        "id": 54,
+        "name": "Spamming Forever",
+        "number": 14,
+        "objectives": [
+          "Get to know about Spam messages and how to avoid them",
+          "Implementing Forever code in Coding Game"
+        ]
+      },
+      {
+        "id": 55,
+        "name": "Program The Micro:bit",
+        "number": 15,
+        "objectives": [
+          "Get to know about micro:bit",
+          "Learn to program micro:bit with Forever code"
+        ]
+      },
+      {
+        "id": 56,
+        "name": "Exam & Coding Test 2",
+        "number": 16,
+        "objectives": ["Written Exam", "Coding Test"]
+      },
+      {
+        "id": 57,
+        "name": "Virtual Animal Exhibition",
+        "number": 17,
+        "objectives": [
+          "Recalling what Virtual Reality (VR) is",
+          "Create an animal exhibition with VR"
+        ]
+      },
+      {
+        "id": 58,
+        "name": "Function in Virtual Reality",
+        "number": 18,
+        "objectives": [
+          "Using Function in VR",
+          "Create \"Find the Animals\" in VR"
+        ]
+      },
+      {
+        "id": 59,
+        "name": "Variable in Technology Development",
+        "number": 19,
+        "objectives": [
+          "Technology developments in human life",
+          "Get to know Variables in Coding"
+        ]
+      },
+      {
+        "id": 60,
+        "name": "Travelling with Technology",
+        "number": 20,
+        "objectives": [
+          "Get to know applications to help on travelling",
+          "Create a VR City Tour"
+        ]
+      },
+      {
+        "id": 61,
+        "name": "Math Operator in Coding",
+        "number": 21,
+        "objectives": [
+          "Get to know about Operators in Coding",
+          "Implementing Operator concept to the Math Game"
+        ]
+      },
+      {
+        "id": 62,
+        "name": "Hoax in Multiple Diorama Part 1",
+        "number": 22,
+        "objectives": [
+          "Get to know about Hoax and how to avoid them",
+          "Create multiple dioramas in VR"
+        ]
+      },
+      {
+        "id": 63,
+        "name": "Multiple Diorama Part 2",
+        "number": 23,
+        "objectives": [
+          "Continuing the previous multiple diorama project",
+          "Play Solar System VR"
+        ]
+      },
+      {
+        "id": 64,
+        "name": "Exam & Coding Test 3",
+        "number": 24,
+        "objectives": ["Written Exam", "Coding Test"]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Little Programmer",
+    "lessons": [
+      {
+        "id": 65,
+        "name": "Variable in Truth or Dare",
+        "number": 1,
+        "objectives": [
+          "Mengenal Cloud Storage",
+          "Mengaplikasikan konsep Variable pada micro:bit"
+        ]
+      },
+      {
+        "id": 66,
+        "name": "List of IOT",
+        "number": 2,
+        "objectives": [
+          "Internet of Things untuk membantu kehidupan",
+          "Mengenal List dalam Coding"
+        ]
+      },
+      {
+        "id": 67,
+        "name": "Broadcast The Greeting Card",
+        "number": 3,
+        "objectives": [
+          "Mengenal apa itu Broadcast dalam Coding",
+          "Membuat animasi Greeting Card dengan kode Broadcast"
+        ]
+      },
+      {
+        "id": 68,
+        "name": "Digital Footprint in Line",
+        "number": 4,
+        "objectives": [
+          "Memahami pengertian dari Jejak Digital",
+          "Mengkombinasikan Robot Maqueen dengan micro:bit"
+        ]
+      },
+      {
+        "id": 69,
+        "name": "Community in Space",
+        "number": 5,
+        "objectives": [
+          "Memahami komunitas dan perkembangannya",
+          "Membuat animasi Lost in Space di Scratch"
+        ]
+      },
+      {
+        "id": 70,
+        "name": "Flying Game",
+        "number": 6,
+        "objectives": [
+          "Berlatih membuat animasi di Scratch",
+          "Membuat Flying Game dengan Coding"
+        ]
+      },
+      {
+        "id": 71,
+        "name": "Virus in Item",
+        "number": 7,
+        "objectives": [
+          "Mengenal Virus pada komputer dan cara mengatasinya",
+          "Membuat game animasi menggunakan List"
+        ]
+      },
+      {
+        "id": 72,
+        "name": "Exam & Coding Test 1",
+        "number": 8,
+        "objectives": ["Written exam", "Coding Test"]
+      },
+      {
+        "id": 73,
+        "name": "Undersea Quiz in AR",
+        "number": 9,
+        "objectives": [
+          "Mengingat kembali cara membuat AR",
+          "Membuat Quiz di dalam AR"
+        ]
+      },
+      {
+        "id": 74,
+        "name": "Wireless Operating System",
+        "number": 10,
+        "objectives": [
+          "Mengenal apa itu Operating System",
+          "Membuat Coding Wireless Controller pada micro:bit dan Maqueen"
+        ]
+      },
+      {
+        "id": 75,
+        "name": "Clone War Animation",
+        "number": 11,
+        "objectives": [
+          "Belajar menggunakan Clone di Scratch",
+          "Membuat animasi Clone War"
+        ]
+      },
+      {
+        "id": 76,
+        "name": "World's Landmarks in AR",
+        "number": 12,
+        "objectives": [
+          "Membuat AR tentang Bangunan bersejarah di berbagai negara",
+          "Mengetahui bangunan bersejarah di dunia"
+        ]
+      },
+      {
+        "id": 77,
+        "name": "Finishing My World's Landmarks",
+        "number": 13,
+        "objectives": [
+          "Melanjutkan AR tentang bangunan bersejarah di berbagai negara",
+          "Memberikan Coding kepada karakter yang ada"
+        ]
+      },
+      {
+        "id": 78,
+        "name": "Addictive Design in The World",
+        "number": 14,
+        "objectives": [
+          "Mengenal konsep Addictive Design",
+          "Membuat game Create Your Own World - Part 1"
+        ]
+      },
+      {
+        "id": 79,
+        "name": "Continue making \"Create Your Own World\"",
+        "number": 15,
+        "objectives": ["Membuat game Create Your Own World - Part 2"]
+      },
+      {
+        "id": 80,
+        "name": "Exam & Coding Test 2",
+        "number": 16,
+        "objectives": ["Written exam", "Coding Test"]
+      },
+      {
+        "id": 81,
+        "name": "AI in Python",
+        "number": 17,
+        "objectives": [
+          "Mengenal apa itu kecerdasan buatan",
+          "Mempelajari Text Coding dan bahasa Python"
+        ]
+      },
+      {
+        "id": 82,
+        "name": "Self Learning with Robot",
+        "number": 18,
+        "objectives": [
+          "Internet sebagai sumber informasi dan tempat belajar",
+          "Mengaplikasikan Operator & Variable pada Robot"
+        ]
+      },
+      {
+        "id": 83,
+        "name": "Soccer Game Part 1",
+        "number": 19,
+        "objectives": ["Menggunakan Scratch untuk membuat Soccer Game Part 1"]
+      },
+      {
+        "id": 84,
+        "name": "Soccer Game Part 2",
+        "number": 20,
+        "objectives": [
+          "Melanjutkan membuat Soccer Game dengan Scratch",
+          "Memainkan game yang telah dibuat"
+        ]
+      },
+      {
+        "id": 85,
+        "name": "Game Creation Part 1",
+        "number": 21,
+        "objectives": [
+          "Menentukan ide untuk membuat game sendiri",
+          "Mengumpulkan asset game"
+        ]
+      },
+      {
+        "id": 86,
+        "name": "Game Creation Part 2",
+        "number": 22,
+        "objectives": [
+          "Membuat game sendiri",
+          "Menyusun Layout Game dan Coding start Layout"
+        ]
+      },
+      {
+        "id": 87,
+        "name": "Game Creation Part 3",
+        "number": 23,
+        "objectives": [
+          "Membuat game sendiri",
+          "Menambahkan Coding, Life, Score dan Next Level"
+        ]
+      },
+      {
+        "id": 88,
+        "name": "Game Creation Part 4",
+        "number": 24,
+        "objectives": [
+          "Launch game",
+          "Persiapan presentasi untuk pertemuan berikutnya"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Coding Xplorer",
+    "lessons": [
+      {
+        "id": 89,
+        "name": "Coding Language and Algorithm",
+        "number": 1,
+        "objectives": [
+          "Get to know Coding as Computer Language",
+          "Compile Coding according to the Correct Algorithm"
+        ]
+      },
+      {
+        "id": 90,
+        "name": "Screen Time in Event and Loop",
+        "number": 2,
+        "objectives": [
+          "Understanding the influence of Screen Time and Gadget Addiction",
+          "Using Events and Loops in Coding"
+        ]
+      },
+      {
+        "id": 91,
+        "name": "Making Friends in Scratch",
+        "number": 3,
+        "objectives": [
+          "Prevent and overcome Cyber ​​Bullying",
+          "Using Scratch to create simple games"
+        ]
+      },
+      {
+        "id": 92,
+        "name": "Gadget Protection in Various Condition",
+        "number": 4,
+        "objectives": [
+          "Get to Know How to Use and Maintain The Gadget Properly",
+          "Get to know the Conditional concept in Coding"
+        ]
+      },
+      {
+        "id": 93,
+        "name": "Digital Footprints in Virtual World",
+        "number": 5,
+        "objectives": ["Get to know Virtual Reality"]
+      },
+      {
+        "id": 94,
+        "name": "Message in The Sky",
+        "number": 6,
+        "objectives": [
+          "Knowing what a Mindful Messaging is",
+          "Get to know and control drones virtually"
+        ]
+      },
+      {
+        "id": 95,
+        "name": "Gliding Bug",
+        "number": 7,
+        "objectives": [
+          "Understanding the meaning of bugs in the program",
+          "Get to know Glide in Scratch and its application to games"
+        ]
+      },
+      {
+        "id": 96,
+        "name": "Overview and Exam 1",
+        "number": 8,
+        "objectives": ["Overview Meeting 1-7", "Exam Level Xplorer 1"]
+      },
+      {
+        "id": 97,
+        "name": "Never Give Up in Conditional Loop",
+        "number": 9,
+        "objectives": [
+          "The Importance of Keeping Trying and Never Giving Up",
+          "Get to Know About Conditional Loop in Coding",
+          "micro:bit Truth or Dare Game"
+        ]
+      },
+      {
+        "id": 98,
+        "name": "Spamming Forever",
+        "number": 10,
+        "objectives": [
+          "Get to Know About Spam and How to Deal With It",
+          "Algorithm in Solving the Problem",
+          "Introduction to Forever Code in Coding"
+        ]
+      },
+      {
+        "id": 99,
+        "name": "Computer Virus and Undersea AR",
+        "number": 11,
+        "objectives": [
+          "Get to know computer viruses and how to deal with them",
+          "Make an aquarium with the AR Cubes"
+        ]
+      },
+      {
+        "id": 100,
+        "name": "Flying in Scratch",
+        "number": 12,
+        "objectives": ["Make a Flying game in Scratch"]
+      },
+      {
+        "id": 101,
+        "name": "Variable in Technology Development",
+        "number": 13,
+        "objectives": [
+          "Development of technology in human life",
+          "Get to know Variables in Coding"
+        ]
+      },
+      {
+        "id": 102,
+        "name": "Function in VR",
+        "number": 14,
+        "objectives": ["Using Functions in VR"]
+      },
+      {
+        "id": 103,
+        "name": "AI in Python",
+        "number": 15,
+        "objectives": [
+          "Introduction to Artificial Intelligence",
+          "Learn Text Coding and Python Pemrogramming Language"
+        ]
+      },
+      {
+        "id": 104,
+        "name": "Overview and Exam 2",
+        "number": 16,
+        "objectives": ["Overview Meeting 1-7", "Exam Level Xplorer 2"]
+      },
+      {
+        "id": 105,
+        "name": "Media Balance for Broadcasting a Clone",
+        "number": 17,
+        "objectives": [
+          "Get to know the Media Balance",
+          "Making Games with Broadcast and Clone concepts"
+        ]
+      },
+      {
+        "id": 106,
+        "name": "List of IoT",
+        "number": 18,
+        "objectives": [
+          "Internet of Things to help life",
+          "Get to know the List in Coding"
+        ]
+      },
+      {
+        "id": 107,
+        "name": "Soccer Game",
+        "number": 19,
+        "objectives": ["Using Scratch to create a Soccer Game"]
+      },
+      {
+        "id": 108,
+        "name": "Additive Design In The World",
+        "number": 20,
+        "objectives": [
+          "Get to know the concept of Additive design",
+          "Making the game Create Own World - Part 1"
+        ]
+      },
+      {
+        "id": 109,
+        "name": "Game Creation - Part 1",
+        "number": 21,
+        "objectives": [
+          "Make Your Own Games",
+          "Defining Ideas and Collecting Game Assets"
+        ]
+      },
+      {
+        "id": 110,
+        "name": "Game Creation - Part 2",
+        "number": 22,
+        "objectives": [
+          "Make Your Own Games",
+          "Compile Game Layout, Coding Start Layout, and Coding Main Game"
+        ]
+      },
+      {
+        "id": 111,
+        "name": "Game Creation - Part 3",
+        "number": 23,
+        "objectives": [
+          "Make Your Own Games",
+          "Add Life, Score, Next Level, and Game Over to the Game"
+        ]
+      },
+      {
+        "id": 112,
+        "name": "Game Creation - Part 4",
+        "number": 24,
+        "objectives": [
+          "Make Your Own Games",
+          "Game Presentation, Feedback, Debugging and Share Game"
+        ]
+      },
+      {
+        "id": 113,
+        "name": "Intro to Mobile Apps and APP Inventor",
+        "number": 25,
+        "objectives": [
+          "Introduction to Mobile Apps",
+          "Introduction to MIT App Inventor"
+        ]
+      },
+      {
+        "id": 114,
+        "name": "For Loop in Time",
+        "number": 26,
+        "objectives": ["Create Stopwatch App", "Create Timer App"]
+      },
+      {
+        "id": 115,
+        "name": "Translator and Spinner in Dictionary Apps",
+        "number": 27,
+        "objectives": [
+          "Introduction About Translator App",
+          "Using Spinner and Speech Recognizer in the Translator App"
+        ]
+      },
+      {
+        "id": 116,
+        "name": "Calculator for Distance Apps",
+        "number": 28,
+        "objectives": [
+          "Create a Calculator Application",
+          "Create My Walk App with pedometer"
+        ]
+      },
+      {
+        "id": 117,
+        "name": "Drawing for Game",
+        "number": 29,
+        "objectives": [
+          "Create a Drawing Application",
+          "Make a Tic tac Toe game"
+        ]
+      },
+      {
+        "id": 118,
+        "name": "App Exploration and Assets Preparation",
+        "number": 30,
+        "objectives": ["Explore Your Application Ideas", "Setting Up Assets"]
+      },
+      {
+        "id": 119,
+        "name": "Layouting and Coding",
+        "number": 31,
+        "objectives": ["Create an App According to the Chosen Theme"]
+      },
+      {
+        "id": 120,
+        "name": "Launching and Presentation",
+        "number": 32,
+        "objectives": ["Launching and Presenting the Final Mobile App Project"]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Game Developer",
+    "lessons": [
+      {
+        "id": 121,
+        "name": "Intro To Construct And Jumping Platform",
+        "number": 1,
+        "objectives": [
+          "Introduction to the Construct 3 website",
+          "Sprites Movement Using Behavior"
+        ]
+      },
+      {
+        "id": 122,
+        "name": "Navigate Through the Map",
+        "number": 2,
+        "objectives": ["Arrange The Maze", "Use Event Sheet in Construct 3"]
+      },
+      {
+        "id": 123,
+        "name": "Animate Inside Layout",
+        "number": 3,
+        "objectives": [
+          "Get to Know About Animation Frame",
+          "Use 8 Direction and Bound to Layout Behavior"
+        ]
+      },
+      {
+        "id": 124,
+        "name": "Enemy Score and Next Level",
+        "number": 4,
+        "objectives": [
+          "Add Enemy and Score",
+          "Create The Next Level Into The Game"
+        ]
+      },
+      {
+        "id": 125,
+        "name": "Aim and Shoot",
+        "number": 5,
+        "objectives": [
+          "Directing the Sprite to Follow the Mouse Pointer",
+          "Learning Physics Behaviour"
+        ]
+      },
+      {
+        "id": 126,
+        "name": "Particles and Next Stage",
+        "number": 6,
+        "objectives": ["Add the Particles Effect", "Add Level 2 to the Game"]
+      },
+      {
+        "id": 127,
+        "name": "Overview and Exam 1",
+        "number": 7,
+        "objectives": ["Overview Meeting 1-6", "Exam Game Dev 1"]
+      },
+      {
+        "id": 128,
+        "name": "Exam 1",
+        "number": 8,
+        "objectives": ["Exam Game Dev 1"]
+      },
+      {
+        "id": 129,
+        "name": "Bouncing Ball and Floating Block",
+        "number": 9,
+        "objectives": [
+          "Moving Paddle and bouncing the Ball",
+          "Arranging Blocks and adding Instance Variable"
+        ]
+      },
+      {
+        "id": 130,
+        "name": "Life and Next Level",
+        "number": 10,
+        "objectives": [
+          "Add Variable and Respawn Ball",
+          "Add More Levels to the Game"
+        ]
+      },
+      {
+        "id": 131,
+        "name": "Layout and Button",
+        "number": 11,
+        "objectives": [
+          "Add the Start, Win, and Game Over Layout",
+          "Add the Start and Replay Button to the Game"
+        ]
+      },
+      {
+        "id": 132,
+        "name": "Select Player and Shoot Random Meteor",
+        "number": 12,
+        "objectives": [
+          "Make a Scrolling Background and Moving the Player",
+          "Choose the Player to Play and Random Costume Obstacles"
+        ]
+      },
+      {
+        "id": 133,
+        "name": "Life, Score and Family Feature",
+        "number": 13,
+        "objectives": [
+          "Use Font Sprite For the Score and Life",
+          "Use the Family Features in Construct3"
+        ]
+      },
+      {
+        "id": 134,
+        "name": "Instance Variable and Game Over",
+        "number": 14,
+        "objectives": [
+          "A Sprite containing a sequence of letters and characters",
+          "Add Stardust Effect Using Particles"
+        ]
+      },
+      {
+        "id": 135,
+        "name": "Overview and Exam 2",
+        "number": 15,
+        "objectives": ["Overview Meeting 1-6"]
+      },
+      {
+        "id": 136,
+        "name": "Exam 2",
+        "number": 16,
+        "objectives": ["Exam Game Dev 2"]
+      },
+      {
+        "id": 137,
+        "name": "Tilemap and Touch",
+        "number": 17,
+        "objectives": [
+          "Make the Layout Design Using Tilemap",
+          "Move the Player in the Platformer Game"
+        ]
+      },
+      {
+        "id": 138,
+        "name": "Obstacles and Items",
+        "number": 18,
+        "objectives": [
+          "Add Obstacles and Enemy to the Game",
+          "Add Items to the Game"
+        ]
+      },
+      {
+        "id": 139,
+        "name": "Shoot to The Next Level",
+        "number": 19,
+        "objectives": ["Add the Next Level", "Make Items Stick to the Player"]
+      },
+      {
+        "id": 140,
+        "name": "AI Enemy and Upload",
+        "number": 20,
+        "objectives": ["Add the AI Enemy", "Upload the Game to the Website"]
+      },
+      {
+        "id": 141,
+        "name": "Game Creation - Part 1",
+        "number": 21,
+        "objectives": ["Exploring Game Ideas", "Collecting the Assets"]
+      },
+      {
+        "id": 142,
+        "name": "Game Creation - Part 2",
+        "number": 22,
+        "objectives": ["Arrange the Layout"]
+      },
+      {
+        "id": 143,
+        "name": "Game Creation - Part 3",
+        "number": 23,
+        "objectives": ["Finishing and Debugging", "Prepare Launch"]
+      },
+      {
+        "id": 144,
+        "name": "Game Creation - Part 4",
+        "number": 24,
+        "objectives": ["Launch Game", "Presentation"]
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Code & Design with Roblox",
+    "lessons": [
+      {
+        "id": 145,
+        "name": "Getting to Know Computer & Roblox",
+        "number": 1,
+        "objectives": [
+          "Understanding computer devices",
+          "Intro to Roblox",
+          "Game literacy",
+          "Roblox Studio preparation"
+        ]
+      },
+      {
+        "id": 146,
+        "name": "Creating your first model",
+        "number": 2,
+        "objectives": [
+          "Understanding menu dan shortcut in Roblox Studio",
+          "Intro to modelling",
+          "Create a house model"
+        ]
+      },
+      {
+        "id": 147,
+        "name": "Imitate Google Images into 3D Models",
+        "number": 3,
+        "objectives": [
+          "Understanding tools modelling",
+          "Creating a model using references from Google Image",
+          "Understanding Anchor",
+          "Understanding save to Roblox and collaborate"
+        ]
+      },
+      {
+        "id": 148,
+        "name": "Using Toolbox & Effects",
+        "number": 4,
+        "objectives": [
+          "Understanding the concept of parent & children",
+          "Understanding the use of Toolbox",
+          "Make an Effect",
+          "Finishing house project"
+        ]
+      },
+      {
+        "id": 149,
+        "name": "Introduction to Terrain",
+        "number": 5,
+        "objectives": [
+          "Designing Map Background",
+          "Understanding tool Terrain Editor",
+          "Creating new project"
+        ]
+      },
+      {
+        "id": 150,
+        "name": "More Tools in Editor",
+        "number": 6,
+        "objectives": [
+          "Understanding smooth and flatten",
+          "Adding house model to the Map"
+        ]
+      },
+      {
+        "id": 151,
+        "name": "Publish to Roblox",
+        "number": 7,
+        "objectives": [
+          "Understanding Copyright",
+          "Adding model to the previous project"
+        ]
+      },
+      {
+        "id": 152,
+        "name": "Review & Exam 1",
+        "number": 8,
+        "objectives": ["Review material meeting 1-7", "Exam"]
+      },
+      {
+        "id": 153,
+        "name": "Advanced Terrain Editor Tools",
+        "number": 9,
+        "objectives": [
+          "Understanding rings of responsibility",
+          "Understanding generate Tool in Terrain Editor",
+          "Creating an underwater game"
+        ]
+      },
+      {
+        "id": 154,
+        "name": "Solid Modeling",
+        "number": 10,
+        "objectives": [
+          "Understanding the solid modeling tool",
+          "Creating an underwater house",
+          "Understanding gravity in Roblox"
+        ]
+      },
+      {
+        "id": 155,
+        "name": "Script on Object",
+        "number": 11,
+        "objectives": [
+          "Understanding Screen Time",
+          "Understanding scripting",
+          "Learning about Properties",
+          "Creating a Script for a part"
+        ]
+      },
+      {
+        "id": 156,
+        "name": "Adding Text & Sound",
+        "number": 12,
+        "objectives": [
+          "Add a board containing Text",
+          "Changing the Atmosphere",
+          "Add Sound"
+        ]
+      },
+      {
+        "id": 157,
+        "name": "Variable",
+        "number": 13,
+        "objectives": [
+          "Understanding Cyberbullying",
+          "Understand the concept of Variables and their types",
+          "Understanding the concept of Instance.new()",
+          "Understanding the wait() code"
+        ]
+      },
+      {
+        "id": 158,
+        "name": "While Loop",
+        "number": 14,
+        "objectives": [
+          "Understand the concepts of Loops and while Loops",
+          "Using while Loops",
+          "Adding Scripts to move Objects"
+        ]
+      },
+      {
+        "id": 159,
+        "name": "Animation in Roblox",
+        "number": 15,
+        "objectives": [
+          "Introduction to Animation",
+          "Understand tools for creating animations",
+          "Create an Animation for farmland"
+        ]
+      },
+      {
+        "id": 160,
+        "name": "Review & Exam 2",
+        "number": 16,
+        "objectives": ["Review of meeting materials 9 - 15", "Explorer 2 exam"]
+      },
+      {
+        "id": 161,
+        "name": "Image Label on Parts",
+        "number": 17,
+        "objectives": [
+          "Understand the Function of Image Label",
+          "Using Image Label on part",
+          "Create table numbers"
+        ]
+      },
+      {
+        "id": 162,
+        "name": "Setting a Trap For Forbidden Area",
+        "number": 18,
+        "objectives": [
+          "Understand the Function of traps",
+          "Make a Laser with Beam Effect for Trap",
+          "Create a Trap on the Door to the kitchen"
+        ]
+      },
+      {
+        "id": 163,
+        "name": "Create Your Own: Exploring Ideas",
+        "number": 19,
+        "objectives": [
+          "Exploring buildings and models",
+          "Understanding the rules and ethics of creating a project",
+          "Make a building idea draft",
+          "Start building modeling"
+        ]
+      },
+      {
+        "id": 164,
+        "name": "Create Your Own: Continue Modelling",
+        "number": 20,
+        "objectives": [
+          "Understand color combinations",
+          "Tips for modelling",
+          "Continue building model"
+        ]
+      },
+      {
+        "id": 165,
+        "name": "Create Your Own: Finish Modelling",
+        "number": 21,
+        "objectives": ["Adding details to Objects", "Completing building model"]
+      },
+      {
+        "id": 166,
+        "name": "Create Your Own: Adding Interactive Models",
+        "number": 22,
+        "objectives": [
+          "Understanding interactive parts",
+          "Adding Scripts to the Game"
+        ]
+      },
+      {
+        "id": 167,
+        "name": "Create Your Own: Prepare for Presentation",
+        "number": 23,
+        "objectives": ["Create project presentations"]
+      },
+      {
+        "id": 168,
+        "name": "Presentation",
+        "number": 24,
+        "objectives": ["Presenting project results"]
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Interactive Mechanics on Roblox",
+    "lessons": [
+      {
+        "id": 169,
+        "name": "Creating a Theme Park",
+        "number": 1,
+        "objectives": [
+          "Create a Map design",
+          "Review Terrain tools",
+          "Create a theme park environment",
+          "Change the Atmosphere of the theme park Map"
+        ]
+      },
+      {
+        "id": 170,
+        "name": "Event on Interactive Model",
+        "number": 2,
+        "objectives": [
+          "Creating an interactive model",
+          "Understanding Events in Coding",
+          "Create a Script for a carousel"
+        ]
+      },
+      {
+        "id": 171,
+        "name": "How to Design a Shirt",
+        "number": 3,
+        "objectives": [
+          "Introduction to Photopea",
+          "Create a simple shirt design",
+          "Importing designs to Asset Manager",
+          "Coding for using clothes in the game"
+        ]
+      },
+      {
+        "id": 172,
+        "name": "Escape Building Game",
+        "number": 4,
+        "objectives": [
+          "Creating a Storyline",
+          "Preparing game clues",
+          "Building models"
+        ]
+      },
+      {
+        "id": 173,
+        "name": "Conditional Statement in Matching Door",
+        "number": 5,
+        "objectives": [
+          "Key modeling",
+          "Understand the concept of Conditional Statement",
+          "Coding of locks and doors"
+        ]
+      },
+      {
+        "id": 174,
+        "name": "Find the Clue!",
+        "number": 6,
+        "objectives": [
+          "Modeling Clue",
+          "Coding show Text Label",
+          "Adding a LightSwitch"
+        ]
+      },
+      {
+        "id": 175,
+        "name": "Final Touch and Publish",
+        "number": 7,
+        "objectives": [
+          "Configuring Atmosphere",
+          "Modeling headlamp",
+          "Publish and play together"
+        ]
+      },
+      {
+        "id": 176,
+        "name": "Review & Exam 1",
+        "number": 8,
+        "objectives": ["Review meeting 1-7", "Exam"]
+      },
+      {
+        "id": 177,
+        "name": "Intro to Blender",
+        "number": 9,
+        "objectives": [
+          "Introduction to Blender",
+          "Learning basic controls of Blender",
+          "Create your first model"
+        ]
+      },
+      {
+        "id": 178,
+        "name": "Modelling in Blender",
+        "number": 10,
+        "objectives": [
+          "Making the second model: bottle",
+          "Player accessory modeling",
+          "Export objects to Roblox Studio"
+        ]
+      },
+      {
+        "id": 179,
+        "name": "Object Showcase",
+        "number": 11,
+        "objectives": [
+          "Import and place objects in project",
+          "Knowing about Screen GUI",
+          "Designing Screen GUI",
+          "Using Tween Service"
+        ]
+      },
+      {
+        "id": 180,
+        "name": "Finding Object Game",
+        "number": 12,
+        "objectives": [
+          "Understanding finding Object Games and planning Games",
+          "Map and building modeling",
+          "Adding paintings with Image Label"
+        ]
+      },
+      {
+        "id": 181,
+        "name": "Completing Map & Clues",
+        "number": 13,
+        "objectives": [
+          "Continuing building and interior modeling",
+          "Determine the location of the object to be hidden",
+          "Adding Screen GUI for Clue"
+        ]
+      },
+      {
+        "id": 182,
+        "name": "Designing Object in Blender",
+        "number": 14,
+        "objectives": [
+          "Creating a low poly model: Barrel",
+          "Create a model for the finding Game's main Object"
+        ]
+      },
+      {
+        "id": 183,
+        "name": "Coding Collect System",
+        "number": 15,
+        "objectives": [
+          "Exporting dan Importing untuk beberapa part object dari Blender dan menyusunnya.",
+          "Membuat GUI yang muncul ketika Player menemukan Item.",
+          "Menambahkan Coding untuk Collect Item."
+        ]
+      },
+      {
+        "id": 184,
+        "name": "Review & Exam 2",
+        "number": 16,
+        "objectives": ["Review Meeting 9-16", "Exam"]
+      },
+      {
+        "id": 185,
+        "name": "Game Promotion",
+        "number": 17,
+        "objectives": [
+          "Understanding places & its Function",
+          "Collaborate all Games to the Lobby project",
+          "Creating images for Badges and Game Pass"
+        ]
+      },
+      {
+        "id": 186,
+        "name": "Monetization in Game",
+        "number": 18,
+        "objectives": [
+          "Understanding Thumbnail and Game Icon",
+          "Creating return Button",
+          "Create opening GUI"
+        ]
+      },
+      {
+        "id": 187,
+        "name": "Create Your Own 1",
+        "number": 19,
+        "objectives": [
+          "Creating game plan",
+          "Add new place to the Lobby",
+          "Start modelling new game"
+        ]
+      },
+      {
+        "id": 188,
+        "name": "Create Your Own 2",
+        "number": 20,
+        "objectives": ["Continue modeling", "Blender for modeling"]
+      },
+      {
+        "id": 189,
+        "name": "Create Your Own 3",
+        "number": 21,
+        "objectives": ["Adding GUI", "Adding Tween Animation"]
+      },
+      {
+        "id": 190,
+        "name": "Create Your Own 4",
+        "number": 22,
+        "objectives": [
+          "Adding Script for mission",
+          "Adding Teleport Script using Touch Event"
+        ]
+      },
+      {
+        "id": 191,
+        "name": "Create Your Own 5",
+        "number": 23,
+        "objectives": ["Creating presentation", "Creating Thumbnail"]
+      },
+      {
+        "id": 192,
+        "name": "Create Your Own 6",
+        "number": 24,
+        "objectives": ["Project presentation"]
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Full Stack Programming for Roblox",
+    "lessons": [
+      {
+        "id": 193,
+        "name": "Intro to Roblox Studio and Obby Game",
+        "number": 1,
+        "objectives": [
+          "Get to know Roblox Games",
+          "Get to know the interface on Roblox Studio",
+          "Understand the modeling process",
+          "Create game obbies"
+        ]
+      },
+      {
+        "id": 194,
+        "name": "Variables & Properties",
+        "number": 2,
+        "objectives": [
+          "Understand the meaning of Coding",
+          "Learn the concept of Variables",
+          "Learn the concept of Property",
+          "Learn the concept of reusing code"
+        ]
+      },
+      {
+        "id": 195,
+        "name": "Model in Roblox Studio",
+        "number": 3,
+        "objectives": ["Learn the modeling process", "Study the effects tool"]
+      },
+      {
+        "id": 196,
+        "name": "Intro to Terrain on Mini Adventure Game",
+        "number": 4,
+        "objectives": [
+          "Get to know adventure games",
+          "Get to know the Terrain Editor and its application",
+          "Create template models and sell platforms"
+        ]
+      },
+      {
+        "id": 197,
+        "name": "Leaderboard & Function",
+        "number": 5,
+        "objectives": [
+          "Study the leaderboards",
+          "Learn the concept of Functions"
+        ]
+      },
+      {
+        "id": 198,
+        "name": "Conditional Statement on Harvestable Item",
+        "number": 6,
+        "objectives": [
+          "Know how Harvestable items work",
+          "Understand the concept of Conditional Statements"
+        ]
+      },
+      {
+        "id": 199,
+        "name": "Sell Item & Add Obstacle",
+        "number": 7,
+        "objectives": ["Know how sell platforms work"]
+      },
+      {
+        "id": 200,
+        "name": "Review and Exam Test",
+        "number": 8,
+        "objectives": ["Review", "Exam"]
+      },
+      {
+        "id": 201,
+        "name": "Custom Player Character",
+        "number": 9,
+        "objectives": [
+          "Able to create your own Player character",
+          "Understand how to drive a custom Player"
+        ]
+      },
+      {
+        "id": 202,
+        "name": "Event & Create Bullet",
+        "number": 10,
+        "objectives": ["Learn the concept of Events", "Create Bullet models"]
+      },
+      {
+        "id": 203,
+        "name": "Script For Bullet",
+        "number": 11,
+        "objectives": ["Able to make Coding for spawn bullets"]
+      },
+      {
+        "id": 204,
+        "name": "Remote Event on GUI",
+        "number": 12,
+        "objectives": [
+          "Understand the storyline of the game",
+          "Understand and apply Screen GUI",
+          "Understand and implement Remote Events"
+        ]
+      },
+      {
+        "id": 205,
+        "name": "How The Story Starts",
+        "number": 13,
+        "objectives": [
+          "Understand the meaning of Module scripts",
+          "Learn to create dynamic Screen GUI"
+        ]
+      },
+      {
+        "id": 206,
+        "name": "Animation in Roblox",
+        "number": 14,
+        "objectives": [
+          "Get to know the meaning of Animation",
+          "Know how to make animations in Roblox",
+          "Applying Animation to the story Game"
+        ]
+      },
+      {
+        "id": 207,
+        "name": "Task 2 and Ending The Story",
+        "number": 15,
+        "objectives": [
+          "Learn about Click detectors",
+          "Understand task flow 2",
+          "Apply Effect in task 3"
+        ]
+      },
+      {
+        "id": 208,
+        "name": "Exam",
+        "number": 16,
+        "objectives": ["Review", "Exam"]
+      },
+      {
+        "id": 209,
+        "name": "Roblox Game Exploration",
+        "number": 17,
+        "objectives": [
+          "Explore game ideas",
+          "Make a game plan that will be made",
+          "Start designing game models and environments"
+        ]
+      },
+      {
+        "id": 210,
+        "name": "Continue Modelling",
+        "number": 18,
+        "objectives": ["Finishing game models"]
+      },
+      {
+        "id": 211,
+        "name": "Start to Code",
+        "number": 19,
+        "objectives": ["Start creating the required code"]
+      },
+      {
+        "id": 212,
+        "name": "Continue Coding",
+        "number": 20,
+        "objectives": ["Continue the Coding process"]
+      },
+      {
+        "id": 213,
+        "name": "Coding for Ending",
+        "number": 21,
+        "objectives": ["Complete the Coding process"]
+      },
+      {
+        "id": 214,
+        "name": "Feedback & Revise",
+        "number": 22,
+        "objectives": [
+          "Shows game progress to classmates",
+          "Giving and receiving feedbacks from classmates and teachers"
+        ]
+      },
+      {
+        "id": 215,
+        "name": "How to Earn Robux",
+        "number": 23,
+        "objectives": ["Understand how to get robux in the game made"]
+      },
+      {
+        "id": 216,
+        "name": "Play a Test With Friends",
+        "number": 24,
+        "objectives": ["Presents game results"]
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Advance Lua Coding for Roblox",
+    "lessons": [
+      {
+        "id": 217,
+        "name": "Developing Battle Royale",
+        "number": 1,
+        "objectives": [
+          "Understand Game development in Battle Royale Games",
+          "Prepare maps",
+          "Learn about multiplayer Game Loops",
+          "Added openable chests"
+        ]
+      },
+      {
+        "id": 218,
+        "name": "Teleport to Arena",
+        "number": 2,
+        "objectives": [
+          "Learning the Lobby System",
+          "Learn the concept of table & For Loop in pairs",
+          "Create a Teleport System"
+        ]
+      },
+      {
+        "id": 219,
+        "name": "Match: Equip Sword in the Chest",
+        "number": 3,
+        "objectives": ["Making Sword models", "Coding for swords"]
+      },
+      {
+        "id": 220,
+        "name": "Match: Health Potion",
+        "number": 4,
+        "objectives": ["Added Health potions", "Added Gun Player"]
+      },
+      {
+        "id": 221,
+        "name": "Match: Set Timer & GUI",
+        "number": 5,
+        "objectives": ["Implement a Timer Module", "Create dynamic Screen GUI"]
+      },
+      {
+        "id": 222,
+        "name": "Match: Ending Match",
+        "number": 6,
+        "objectives": [
+          "Understand the process of returning losing players to the Lobby",
+          "Understand how to end a Match"
+        ]
+      },
+      {
+        "id": 223,
+        "name": "Match: Cleanup & Reset",
+        "number": 7,
+        "objectives": ["Return the Player to the Intermission"]
+      },
+      {
+        "id": 224,
+        "name": "Exam 1",
+        "number": 8,
+        "objectives": ["Review", "Exam"]
+      },
+      {
+        "id": 225,
+        "name": "Cleaner Boat Simulator",
+        "number": 9,
+        "objectives": [
+          "Know the flow of the Cleaner Boat Simulator Game",
+          "Understand the material preparation process"
+        ]
+      },
+      {
+        "id": 226,
+        "name": "Placement System: Creating GUI",
+        "number": 10,
+        "objectives": [
+          "Understand the process of making a Screen GUI to build a Boat"
+        ]
+      },
+      {
+        "id": 227,
+        "name": "Placement System: Coding the System",
+        "number": 11,
+        "objectives": ["Understand how the Placement System works"]
+      },
+      {
+        "id": 228,
+        "name": "Launch Boat & Remove Material",
+        "number": 12,
+        "objectives": [
+          "Coding for launch Boat",
+          "Coding to remove Boat Materials"
+        ]
+      },
+      {
+        "id": 229,
+        "name": "Get Coins by Collecting Trash",
+        "number": 13,
+        "objectives": [
+          "Learn how collecting Trash works with a Boat",
+          "Able to display the amount of Trash on the GUI Screen"
+        ]
+      },
+      {
+        "id": 230,
+        "name": "Upgrade Boat: Prepare The Quiz",
+        "number": 14,
+        "objectives": [
+          "Learned how to disable Materials from the Screen GUI",
+          "Able to make GUI Quiz designs"
+        ]
+      },
+      {
+        "id": 231,
+        "name": "Upgrade Boat: Manage Quiz",
+        "number": 15,
+        "objectives": [
+          "Able to make a Quiz to upgrade the Boat",
+          "Understand the Boat upgrade process"
+        ]
+      },
+      {
+        "id": 232,
+        "name": "Exam 2",
+        "number": 16,
+        "objectives": ["Review", "Exam"]
+      },
+      {
+        "id": 233,
+        "name": "Math Obby: Generate Questions",
+        "number": 17,
+        "objectives": ["Understand how to display questions"]
+      },
+      {
+        "id": 234,
+        "name": "Math Obby: Generate Answer",
+        "number": 18,
+        "objectives": [
+          "Understand how to display answer choices",
+          "Understand how to check Player answers"
+        ]
+      },
+      {
+        "id": 235,
+        "name": "Roblox Game Exploration",
+        "number": 19,
+        "objectives": [
+          "Explore game ideas",
+          "Make a game plan that will be made",
+          "Start creating environments and models"
+        ]
+      },
+      {
+        "id": 236,
+        "name": "Modelling Game",
+        "number": 20,
+        "objectives": ["Finishing game models"]
+      },
+      {
+        "id": 237,
+        "name": "Start to Code",
+        "number": 21,
+        "objectives": ["Create the necessary codes"]
+      },
+      {
+        "id": 238,
+        "name": "Continue Coding",
+        "number": 22,
+        "objectives": ["Continue the Coding process"]
+      },
+      {
+        "id": 239,
+        "name": "Add Game Pass",
+        "number": 23,
+        "objectives": ["Added in-Game Game Pass"]
+      },
+      {
+        "id": 240,
+        "name": "Present Your Game",
+        "number": 24,
+        "objectives": ["Presents game results"]
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Python Coder",
+    "lessons": [
+      {
+        "id": 241,
+        "name": "Intro to Python",
+        "number": 1,
+        "objectives": [
+          "Introducing Python and the rules for using the language",
+          "Introducing extensions to make Python Coding easier",
+          "Knowing how to display output results with the print command",
+          "Knowing writing mathematical Operators in Python"
+        ]
+      },
+      {
+        "id": 242,
+        "name": "Variable and List in Python",
+        "number": 2,
+        "objectives": [
+          "Introducing the concept of Variables and how to use them",
+          "Introduces input commands to request a response from the user",
+          "Introducing data types in Python",
+          "Introducing the concept of Lists and how to use them",
+          "Drawing a shape using the Python Turtle"
+        ]
+      },
+      {
+        "id": 243,
+        "name": "Data Structure to Store Multiple Items",
+        "number": 3,
+        "objectives": [
+          "Introduce the concept of data structures and their types",
+          "Know how to process data in Lists, Tuples, and Dictionaries",
+          "Introducing the concept of 2-Dimensional Lists and how to use them",
+          "Know how to select data randomly with the Random Module"
+        ]
+      },
+      {
+        "id": 244,
+        "name": "Doing Loops in Python",
+        "number": 4,
+        "objectives": [
+          "Introducing Loops for Coding",
+          "Introducing the types and differences of Loops (For, While) and how to use them",
+          "Introducing the importance of indenting in Coding",
+          "Know the use of Loops to shorten writing Coding"
+        ]
+      },
+      {
+        "id": 245,
+        "name": "Conditional and Conditional Loops",
+        "number": 5,
+        "objectives": [
+          "Introducing the concept of Conditionals and using if, elif, and else to create conditions",
+          "Introduce the concept and use of logical and Comparison Operators in Conditionals",
+          "Introducing the concept of case sensitive with lower as a solution",
+          "Introducing the concept of Conditional Loops and how to use them with While and If"
+        ]
+      },
+      {
+        "id": 246,
+        "name": "Creating Function",
+        "number": 6,
+        "objectives": [
+          "Introducing the concept of Functions and their Types",
+          "Know how to use built-in Functions",
+          "Create your own manual Function for certain Functions"
+        ]
+      },
+      {
+        "id": 247,
+        "name": "One-Liner, Scope, and Function Parameters",
+        "number": 7,
+        "objectives": [
+          "Introducing the concept of writing one liner Coding",
+          "Introducing the scope of the Coding area so that errors do not occur in Coding",
+          "Introducing and using Function Parameters in programs"
+        ]
+      },
+      {
+        "id": 248,
+        "name": "Python Coder Middle Exam",
+        "number": 8,
+        "objectives": ["Review Material", "Exam Python Coder 1"]
+      },
+      {
+        "id": 249,
+        "name": "Object Oriented Programming (OOP)",
+        "number": 9,
+        "objectives": ["Introducing Object Oriented Programming"]
+      },
+      {
+        "id": 250,
+        "name": "Intro to Python Modules",
+        "number": 10,
+        "objectives": ["Introduce and try Artificial Intelligence"]
+      },
+      {
+        "id": 251,
+        "name": "Intro to Python TKinter",
+        "number": 11,
+        "objectives": [
+          "Introducing and using the TKinter module",
+          "Introducing and using components in TKinter"
+        ]
+      },
+      {
+        "id": 252,
+        "name": "TKinter Message and Input Box with Label and Button",
+        "number": 12,
+        "objectives": [
+          "Introducing Message Boxes, Input Boxes, Labels, and Buttons",
+          "Know how to use Message Boxes, Input Boxes, Labels, and Buttons"
+        ]
+      },
+      {
+        "id": 253,
+        "name": "TKinter Canvas and Coordinate",
+        "number": 13,
+        "objectives": [
+          "Introduce and understand the use of coordinates on the canvas"
+        ]
+      },
+      {
+        "id": 254,
+        "name": "TKinter Disabled, Nested Conditional and Loop",
+        "number": 14,
+        "objectives": ["Understand the concept of Event"]
+      },
+      {
+        "id": 255,
+        "name": "Final Exam Python Coder Part 1",
+        "number": 15,
+        "objectives": ["Doing the Google Form Exam"]
+      },
+      {
+        "id": 256,
+        "name": "Final Exam Python Coder Part 2",
+        "number": 16,
+        "objectives": ["Continuing the Final Exam"]
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Python Game Dev",
+    "lessons": [
+      {
+        "id": 257,
+        "name": "Introduction to Pygame",
+        "number": 1,
+        "objectives": [
+          "Introducing concepts related to Game development",
+          "Know how to develop games using Pygame",
+          "Know how the Event controller concept works",
+          "Know how to add objects in Pygame"
+        ]
+      },
+      {
+        "id": 258,
+        "name": "Add Another Sprite for Snake Game",
+        "number": 2,
+        "objectives": [
+          "Know how to initialize FPS in Pygame",
+          "Add another Object to the PyGame canvas",
+          "Know how to switch layouts in Pygame",
+          "Know what is the Function of FPS in Game Development",
+          "Understand List operations in Python",
+          "Know how to add text to Pygame layouts"
+        ]
+      },
+      {
+        "id": 259,
+        "name": "Load Image Sprite in Astro Man",
+        "number": 3,
+        "objectives": [
+          "Know the functional programming style (modular and reusable)",
+          "Create a Screen using a Function",
+          "Knowing folder management in Pygame",
+          "Knowing how to load assets in Pygame",
+          "Know how to render images in Pygame",
+          "Know how to load and play Sound effects"
+        ]
+      },
+      {
+        "id": 260,
+        "name": "Spawn The Pipe",
+        "number": 4,
+        "objectives": [
+          "Knowing the Gravity Concept in the game",
+          "Know the difference between Velocity and Acceleration",
+          "Can move objects statically",
+          "Remove objects from the Window"
+        ]
+      },
+      {
+        "id": 261,
+        "name": "Create Collide Event",
+        "number": 5,
+        "objectives": [
+          "Knowing how collide Sprites work is more complex",
+          "Knowing the collide conditions in the Game and packaged in a Function",
+          "Know how to access global Variables",
+          "Know how to set the high Score in the Game"
+        ]
+      },
+      {
+        "id": 262,
+        "name": "Multiplayer Space Shooter",
+        "number": 6,
+        "objectives": [
+          "Review important syntax material commonly used in Python Game Development",
+          "Get to know the concept of multiplayer games",
+          "Get to know the various transform Functions in PyGame",
+          "Deepen regarding the scale and rotate Functions in PyGame"
+        ]
+      },
+      {
+        "id": 263,
+        "name": "Spawn the Bullet and Make the Ship Move",
+        "number": 7,
+        "objectives": [
+          "Deepen the PyGame.Rect() Behavior!",
+          "Deepen the concept of velocity to make objects move",
+          "Understand the concept of the PyGame.key.get_pressed() Method",
+          "Make code more modular by breaking the program into Functions"
+        ]
+      },
+      {
+        "id": 264,
+        "name": "Finishing the Space Shooter !",
+        "number": 8,
+        "objectives": [
+          "Understand how to create custom Events or user Events in PyGame",
+          "Understand how to receive Broadcast user Events or custom Events in PyGame",
+          "Understand how to create a Winning Screen Game!",
+          "Know how to convert Pygame into an executable file"
+        ]
+      },
+      {
+        "id": 265,
+        "name": "Runner Game",
+        "number": 9,
+        "objectives": [
+          "Understand general animation concepts and terminology",
+          "Understand how to create animated Sprites in PyGame",
+          "Adding external fonts to Pygame",
+          "Learn more about the time() Function"
+        ]
+      },
+      {
+        "id": 266,
+        "name": "Spawn The Enemy",
+        "number": 10,
+        "objectives": [
+          "Deep dive into gravity in games",
+          "Implemented Frame Animation for more Sprites",
+          "Understand conditioning when spawning objects or enemies",
+          "Added Background Sound to the Game"
+        ]
+      },
+      {
+        "id": 267,
+        "name": "Publish your game",
+        "number": 11,
+        "objectives": [
+          "Implement collision function",
+          "Make the game more exciting with sound effects",
+          "Become more competitive with the score and high score",
+          "Publish the game to the community"
+        ]
+      },
+      {
+        "id": 268,
+        "name": "Create your own game",
+        "number": 12,
+        "objectives": [
+          "Explore ideas for independent projects",
+          "Collecting assets for independent projects",
+          "Create a game development timeline",
+          "Prepare the environment folder for the project"
+        ]
+      },
+      {
+        "id": 269,
+        "name": "Create your own game (Explore)",
+        "number": 13,
+        "objectives": [
+          "Continuing the development progress of the project",
+          "Design Screen for a standalone project",
+          "Review Coordinates System in Pygame",
+          "Added Sprites to the Game"
+        ]
+      },
+      {
+        "id": 270,
+        "name": "Create Your Own Game (Coding the Logic )",
+        "number": 14,
+        "objectives": [
+          "Continuing the development progress of the project",
+          "Coding Logic for Games",
+          "Makes Sprites move",
+          "Added Enemies to the Game"
+        ]
+      },
+      {
+        "id": 271,
+        "name": "Create Your Own Game (Finishing and Build Your Project)",
+        "number": 15,
+        "objectives": [
+          "Testing and Debugging",
+          "Defining Game Over Conditions",
+          "Project presentation and revision",
+          "Finishing project"
+        ]
+      },
+      {
+        "id": 272,
+        "name": "CreateYour Own Game (Build and Publish your Game)",
+        "number": 16,
+        "objectives": [
+          "Game builds become executable files",
+          "Publish the game"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Python AI",
+    "lessons": [
+      {
+        "id": 273,
+        "name": "Introduction to AI and Machine Learning",
+        "number": 1,
+        "objectives": [
+          "Mengetahui konsep Artificial Intelligence",
+          "Mengetahui penerapan AI di kehidupan sehari-hari",
+          "Mengetahui cakupan AI",
+          "Mengetahui cara kerja Machine Learning"
+        ]
+      },
+      {
+        "id": 274,
+        "name": "OOP (Object Oriented Programming)",
+        "number": 2,
+        "objectives": [
+          "Memahami konsep OOP",
+          "Membedakan Object, Class, Method, dan Property",
+          "Mengetahui konsep inheritence di OOP",
+          "Membuat game sederhana menggunakan OOP"
+        ]
+      },
+      {
+        "id": 275,
+        "name": "Tic Tac Toe With Numpy",
+        "number": 3,
+        "objectives": [
+          "Menggunakan NumPy Library",
+          "Membuat NumPy Array (1D, 2D, 3D) dan memanipulasinya",
+          "Mengetahui Operasi dasar pengolahan NumPy Array",
+          "Membuat project TicTacToe menggunakan NumPy"
+        ]
+      },
+      {
+        "id": 276,
+        "name": "OpenCV Image Manipulation",
+        "number": 4,
+        "objectives": [
+          "Mengetahui konsep Computer Vision",
+          "Menggunakan OpenCV Library",
+          "Mengetahui konsep Image Processing",
+          "Mengetahui teknik blurring menggunakan OpenCV"
+        ]
+      },
+      {
+        "id": 277,
+        "name": "OpenCV Color Processing and Cartoonizer Image",
+        "number": 5,
+        "objectives": [
+          "Mengetahui Image Processing gray scale image di OpenCV",
+          "Mengetahui konsep Canny Edge Detector dan Countour Detection",
+          "Mengetahui cara mengidentifikasi warna di OpenCV",
+          "Membuat project Image Cartoonize"
+        ]
+      },
+      {
+        "id": 278,
+        "name": "Face Detection",
+        "number": 6,
+        "objectives": [
+          "Menggunakan Pre-trained model dan Machine Learning Framework",
+          "Membuat aplikasi face detection di gambar",
+          "Membuat aplikasi face detection di video"
+        ]
+      },
+      {
+        "id": 279,
+        "name": "MobileNetSSD Object Detection",
+        "number": 7,
+        "objectives": [
+          "Mengetahui arsitektur model Single Shot Detector (SSD)",
+          "Dapat membuat project Object Detection menggunakan Model SSD",
+          "Mengimplementasikan project Object Detector baik itu di gambar atau di video"
+        ]
+      },
+      {
+        "id": 280,
+        "name": "Summary and Exam",
+        "number": 8,
+        "objectives": [
+          "Review materi meeting 1 - 7",
+          "Uji pemahaman Kognitif ( GForm Exam)",
+          "Uji pemahaman Coding (Coding exam)"
+        ]
+      },
+      {
+        "id": 281,
+        "name": "Object Detection VS Object Tracking",
+        "number": 9,
+        "objectives": [
+          "Mengetahui konsep Object Tracking dan cara kerjanya",
+          "Mengetahui perbedaan Object Detection dan Tracking",
+          "Mengetahui konsep Euclidean Distance Tracker",
+          "Mengetahui konsep countour detection",
+          "Mengetahui konsep image thresholding"
+        ]
+      },
+      {
+        "id": 282,
+        "name": "Euclidean Distance Tracker Class",
+        "number": 10,
+        "objectives": [
+          "Mengaplikasikan penggunaan Euclidean Distance Tracker Class",
+          "Menambahkan Unique Identification dari Object yang terdeteksi untuk proses tracking",
+          "Menambahkan \"marker\" untuk Object yang sedang di track"
+        ]
+      },
+      {
+        "id": 283,
+        "name": "Hand Landmarks Detection",
+        "number": 11,
+        "objectives": [
+          "Pengenalan MediaPipe Library untuk landmark detection",
+          "Menggunakana MediaPipe untuk Holistic Tracking",
+          "Mendalami konsep Image Manipulation di Video Frames",
+          "Membuat project Virtual Painter"
+        ]
+      },
+      {
+        "id": 284,
+        "name": "Find Landmark Position",
+        "number": 12,
+        "objectives": [
+          "Mencari posisi landmark tangan menggunakan Method enumerate()",
+          "Mengetahui klasifikasi landmark pada tangan",
+          "Menginisialisasi mode pada project Virtual Painter (Selection dan Drawing)",
+          "Finishing project dengan teknis Video Frame Masking"
+        ]
+      },
+      {
+        "id": 285,
+        "name": "Mediapipe Face Mesh",
+        "number": 13,
+        "objectives": [
+          "Mengetahui anatomi Face Mesh di MediaPipe",
+          "Menggambar landmark menggunakan Face Mesh Landmark model",
+          "Membuat project Pig Face Filter menggunakan MediaPipe"
+        ]
+      },
+      {
+        "id": 286,
+        "name": "Mediapipe Facial Area",
+        "number": 14,
+        "objectives": [
+          "Mengetahui implementasi dari Face Mesh Landmark",
+          "Mengetahui Facial Area yang ada di dalam MediaPipe",
+          "Membuat project Face FIlter Dragon Project",
+          "Membuat Class Face Mesh untuk mendeteksi Facial Area"
+        ]
+      },
+      {
+        "id": 287,
+        "name": "Detect Mouth and Eye",
+        "number": 15,
+        "objectives": [
+          "Mengidentifikasi apakah mulut terbuka atau tidak",
+          "Mengidentifikasi nomor landmark pada facial mesh",
+          "Melakukan Video masking untuk menempelkan efek filter ke dalam frames"
+        ]
+      },
+      {
+        "id": 288,
+        "name": "Final Exam",
+        "number": 16,
+        "objectives": [
+          "Review Concept",
+          "Uji pemahaman Kognitif ( GForm Exam)",
+          "Uji pemahaman Coding (Coding exam)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "IoT Robotic",
+    "lessons": [
+      {
+        "id": 289,
+        "name": "Getting Know About Electronic Component",
+        "number": 1,
+        "objectives": [
+          "Getting know about basic electronic",
+          "Able to operate LED component"
+        ]
+      },
+      {
+        "id": 290,
+        "name": "Ruler with Ultrasonic",
+        "number": 2,
+        "objectives": [
+          "Understanding of ultrasonic sensor implementation through mini project"
+        ]
+      },
+      {
+        "id": 291,
+        "name": "Sound and Light Sensor",
+        "number": 3,
+        "objectives": ["Understanding of how sound sensor and LDR sensor work"]
+      },
+      {
+        "id": 292,
+        "name": "Assembling Prototype",
+        "number": 4,
+        "objectives": ["Understanding of how to make smart garage prototype"]
+      },
+      {
+        "id": 293,
+        "name": "Automatic Opening Garage",
+        "number": 5,
+        "objectives": [
+          "Knowing automatic garage concept through automatic door implementation"
+        ]
+      },
+      {
+        "id": 294,
+        "name": "Checking Availability Garage",
+        "number": 6,
+        "objectives": [
+          "Knowing manual garage concept through manual door implementation"
+        ]
+      },
+      {
+        "id": 295,
+        "name": "Manual Opening Garage",
+        "number": 7,
+        "objectives": [
+          "Knowing and implementation of how monitoring garage work on prototype"
+        ]
+      },
+      {
+        "id": 296,
+        "name": "Overview & Exam",
+        "number": 8,
+        "objectives": ["Overview & Exam"]
+      },
+      {
+        "id": 297,
+        "name": "IoT Around You",
+        "number": 9,
+        "objectives": [
+          "Know about Robot Car Component",
+          "Assembling Component Robot Car"
+        ]
+      },
+      {
+        "id": 298,
+        "name": "I’m Movin’ It",
+        "number": 10,
+        "objectives": ["Coding in Arduino", "Moving Robot Car"]
+      },
+      {
+        "id": 299,
+        "name": "Sonar System",
+        "number": 11,
+        "objectives": ["Intro to Ultrasonic Sensor", "Object Avoider"]
+      },
+      {
+        "id": 300,
+        "name": "Object Following",
+        "number": 12,
+        "objectives": ["Intro to IR Sensor", "Object Follower"]
+      },
+      {
+        "id": 301,
+        "name": "Line Following",
+        "number": 13,
+        "objectives": ["Line Follower", "Robot Race"]
+      },
+      {
+        "id": 302,
+        "name": "Control the Robot using Bluetooth",
+        "number": 14,
+        "objectives": ["Intro to Bluetooth", "Bluetooth Robot Car"]
+      },
+      {
+        "id": 303,
+        "name": "Getting Ready",
+        "number": 15,
+        "objectives": ["Battle Car Creation"]
+      },
+      {
+        "id": 304,
+        "name": "Let's Go!",
+        "number": 16,
+        "objectives": ["Overview and Exam", "Battle Car Mini Tournament"]
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Iot Smart City",
+    "lessons": [
+      {
+        "id": 305,
+        "name": "Introduction to IOT and C Language",
+        "number": 1,
+        "objectives": [
+          "Understanding Internet of Things components.",
+          "Understanding Microcontroller Board",
+          "Understanding Electronic Component"
+        ]
+      },
+      {
+        "id": 306,
+        "name": "Controlling LED Using Conditionals",
+        "number": 2,
+        "objectives": [
+          "Understands IoT Environment",
+          "Understands Operator in C/C++",
+          "Understands Conditional in C/C++"
+        ]
+      },
+      {
+        "id": 307,
+        "name": "Looping with Servo",
+        "number": 3,
+        "objectives": [
+          "Understands Looping in C/C++",
+          "Understands How to Use a Servo",
+          "Make an Automatic Trash Can"
+        ]
+      },
+      {
+        "id": 308,
+        "name": "System Security and While Loops",
+        "number": 4,
+        "objectives": [
+          "Understands Conditional Loop in C/C++",
+          "Understands How to Use an MFRC522 RFID Reader/Writer",
+          "Make a Door Security System"
+        ]
+      },
+      {
+        "id": 309,
+        "name": "Detecting Motion With Functions",
+        "number": 5,
+        "objectives": [
+          "Understands Function in C/C++",
+          "Understands How to Use a Motion Sensor",
+          "Make an Automatic Garage System"
+        ]
+      },
+      {
+        "id": 310,
+        "name": "Playing Tones Using Arrays",
+        "number": 6,
+        "objectives": [
+          "Understands Array in C/C++",
+          "Sound Different Notes on A Buzzer",
+          "Make a Burglar Alarm System"
+        ]
+      },
+      {
+        "id": 311,
+        "name": "Digital Temperature",
+        "number": 7,
+        "objectives": [
+          "Undestands Switch Case in C/C++",
+          "Understands How to Use a Temperature Sensor and LCD Display",
+          "Make a Weather Monitoring System"
+        ]
+      },
+      {
+        "id": 312,
+        "name": "Exam 1",
+        "number": 8,
+        "objectives": [
+          "Review key concepts and demonstrate the knowledge in written exam",
+          "Applying students' understanding in a project exam through selected project"
+        ]
+      },
+      {
+        "id": 313,
+        "name": "Make Your Own Prototype",
+        "number": 9,
+        "objectives": [
+          "Apply theoretical knowledge by building a functional prototype.",
+          "Getting know Smarthome concept",
+          "Create Simple Smart Home Prototype"
+        ]
+      },
+      {
+        "id": 314,
+        "name": "Blynk App Introduction",
+        "number": 10,
+        "objectives": [
+          "Learn how to identify and set up ESP microcontroller",
+          "Apply the knowledge to \"light on/off\" project"
+        ]
+      },
+      {
+        "id": 315,
+        "name": "Smart Door Security",
+        "number": 11,
+        "objectives": ["Students will be able to build Smart Door project"]
+      },
+      {
+        "id": 316,
+        "name": "Monitoring Temperature and Humidity",
+        "number": 12,
+        "objectives": [
+          "Students will learn and build monitoring temperature project"
+        ]
+      },
+      {
+        "id": 317,
+        "name": "Security System Part II",
+        "number": 13,
+        "objectives": [
+          "Students will learn and build a thief detector and a fire alarm system"
+        ]
+      },
+      {
+        "id": 318,
+        "name": "Smart Garage",
+        "number": 14,
+        "objectives": [
+          "Learn to integrate ultrasonic sensors it into a project circuit.",
+          "Apply knowledge to Smart Garage System"
+        ]
+      },
+      {
+        "id": 319,
+        "name": "Project Finishing",
+        "number": 15,
+        "objectives": ["Exploring idea and tools for preparation project exam"]
+      },
+      {
+        "id": 320,
+        "name": "Exam 2",
+        "number": 16,
+        "objectives": ["Submit Final Project"]
+      },
+      {
+        "id": 321,
+        "name": "Smart Parking",
+        "number": 17,
+        "objectives": [
+          "Introduced to the concept of Smart Parking",
+          "Introduction to fundamental components required to build one."
+        ]
+      },
+      {
+        "id": 322,
+        "name": "Code Smart Parking I",
+        "number": 18,
+        "objectives": ["Learn to build a functioning gate control system"]
+      },
+      {
+        "id": 323,
+        "name": "Code Smart Parking II",
+        "number": 19,
+        "objectives": [
+          "Learn to build a functioning gate control system and testing the project"
+        ]
+      },
+      {
+        "id": 324,
+        "name": "Smart Farming I",
+        "number": 20,
+        "objectives": [
+          "Detect and display the moisture level on a screen or via another output Method.",
+          "Prepare to work on personal projects"
+        ]
+      },
+      {
+        "id": 325,
+        "name": "Smart Farming II",
+        "number": 21,
+        "objectives": ["Learn to build a functional automatic watering system"]
+      },
+      {
+        "id": 326,
+        "name": "Review and Personal Project I",
+        "number": 22,
+        "objectives": ["Implement the wiring idea of personal project"]
+      },
+      {
+        "id": 327,
+        "name": "Review and Personal Project II",
+        "number": 23,
+        "objectives": ["Implement the Coding and Debugging process"]
+      },
+      {
+        "id": 328,
+        "name": "Project Submission",
+        "number": 24,
+        "objectives": ["Student's project submission"]
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "JavaScript Developer",
+    "lessons": [
+      {
+        "id": 329,
+        "name": "Hello, World!",
+        "number": 1,
+        "objectives": [
+          "Know what Coding is and its scope.",
+          "Knowledge of the JavaScript programming language.",
+          "Know what an Algorithm is."
+        ]
+      },
+      {
+        "id": 330,
+        "name": "Hoax and Variable",
+        "number": 2,
+        "objectives": [
+          "Know about Hoax and how to identify it.",
+          "Know the concept of Variables and data types."
+        ]
+      },
+      {
+        "id": 331,
+        "name": "Operator and Expresion",
+        "number": 3,
+        "objectives": [
+          "Knowing the concept of Operators in Coding.",
+          "Deepen the concept of Arithmetic Operators and assignment."
+        ]
+      },
+      {
+        "id": 332,
+        "name": "Storing Multiple Data in Array",
+        "number": 4,
+        "objectives": [
+          "Know how to deal with Cyberbullying",
+          "Know the concept of Arrays"
+        ]
+      },
+      {
+        "id": 333,
+        "name": "What If? Conditional Logic",
+        "number": 5,
+        "objectives": [
+          "Understanding the concept of Conditionals in Coding.",
+          "Using comparison and Logical Operators."
+        ]
+      },
+      {
+        "id": 334,
+        "name": "Media & Switch Conditions",
+        "number": 6,
+        "objectives": [
+          "How to make life balance",
+          "Conditionals with Switch Statements and Ternary Operators."
+        ]
+      },
+      {
+        "id": 335,
+        "name": "Problem Solving For Loop",
+        "number": 7,
+        "objectives": [
+          "Understand the problem solving process",
+          "Understanding Loops in Coding"
+        ]
+      },
+      {
+        "id": 336,
+        "name": "Review and Middle Test",
+        "number": 8,
+        "objectives": ["Overview the topics from meeting 1-7", "Middle test"]
+      },
+      {
+        "id": 337,
+        "name": "Nested and Conditional Loop",
+        "number": 9,
+        "objectives": [
+          "Understanding about Nested For Loop",
+          "Understanding about Conditional Loop"
+        ]
+      },
+      {
+        "id": 338,
+        "name": "Create Some Program!",
+        "number": 10,
+        "objectives": ["Make some programs with JavaScript"]
+      },
+      {
+        "id": 339,
+        "name": "Real or Fake? Function",
+        "number": 11,
+        "objectives": [
+          "Understand photo and video manipulation",
+          "Understand Functions in Coding"
+        ]
+      },
+      {
+        "id": 340,
+        "name": "Function Parameter",
+        "number": 12,
+        "objectives": ["Know the concept of Parameters in Functions"]
+      },
+      {
+        "id": 341,
+        "name": "Copyright and Scope",
+        "number": 13,
+        "objectives": [
+          "Know about copyright and respect the copyright of a work",
+          "Knowing the scope in JavaScript."
+        ]
+      },
+      {
+        "id": 342,
+        "name": "Breaking News, Return, For Each",
+        "number": 14,
+        "objectives": [
+          "Know how to react to breaking news",
+          "Understanding return Statements in JavaScript",
+          "Using Loops with For Each"
+        ]
+      },
+      {
+        "id": 343,
+        "name": "Summary and Exam",
+        "number": 15,
+        "objectives": ["Review meeting materials 9-14", "Exam"]
+      },
+      {
+        "id": 344,
+        "name": "Exam",
+        "number": 16,
+        "objectives": ["Exam"]
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Website Developer",
+    "lessons": [
+      {
+        "id": 345,
+        "name": "Intro to Website and HTML",
+        "number": 1,
+        "objectives": [
+          "Pengenalan Website",
+          "Pengenalan HTML",
+          "Memahami tag Heading, Paragraf, Break, Bold, Italic, Underline dalam HTML"
+        ]
+      },
+      {
+        "id": 346,
+        "name": "Intro to CSS and Header",
+        "number": 2,
+        "objectives": [
+          "Pengenalan CSS (Cascading Style Sheet)",
+          "CSS Box Model dan komponennya",
+          "Memahami konsep selector pada CSS",
+          "Menerapkan CSS untuk membuat dan menata bagian header pada website"
+        ]
+      },
+      {
+        "id": 347,
+        "name": "Styling Images",
+        "number": 3,
+        "objectives": [
+          "Memahami dan menerapkan display flex dalam tata letak website",
+          "Mempelajari teknik efektif untuk menata gambar pada website",
+          "Menambahkan cards untuk product pada website"
+        ]
+      },
+      {
+        "id": 348,
+        "name": "How About Table in HTML?",
+        "number": 4,
+        "objectives": [
+          "Memahami struktur tabel dalam HTML.",
+          "Memahami atribut Colspan dan Rowspan dalam tabel HTML.",
+          "Menambahkan tabel ke website."
+        ]
+      },
+      {
+        "id": 349,
+        "name": "List and Button on Pricing Table",
+        "number": 5,
+        "objectives": [
+          "Memahami dan menerapkan List dalam HTML",
+          "Mempelajari cara membuat button dalam HTML",
+          "Menambahkan pricing table di website"
+        ]
+      },
+      {
+        "id": 350,
+        "name": "Link in HTML and About Us Section",
+        "number": 6,
+        "objectives": [
+          "Memahami konsep link termasuk Hyperlink dan Anchor Link",
+          "Memahami perbedaan Absolute dan Relative URL",
+          "Menambahkan halaman About Us pada website"
+        ]
+      },
+      {
+        "id": 351,
+        "name": "Awesome Footer",
+        "number": 7,
+        "objectives": [
+          "Mempelajari konsep menambah icon dengan Font Awesome",
+          "Menambahkan footer dengan gradient color pada website"
+        ]
+      },
+      {
+        "id": 352,
+        "name": "Middle Test and Responsive Website",
+        "number": 8,
+        "objectives": [
+          "Menerapkan Google Font dalam website",
+          "Mempelajari prinsip responsive website",
+          "Mengunggah situs web ke internet"
+        ]
+      },
+      {
+        "id": 353,
+        "name": "Intro JavaScript dan HTML DOM",
+        "number": 9,
+        "objectives": [
+          "Pengenalan JavaScript dalam Dokumen HTML",
+          "Memahami HTML DOM (Document Object Model)",
+          "Bekerja dengan Metode DOM",
+          "Membuat Halaman Blog dengan JavaScript dan HTML"
+        ]
+      },
+      {
+        "id": 354,
+        "name": "DOM Events",
+        "number": 10,
+        "objectives": [
+          "Memahami konsep Event pada DOM",
+          "Mulai membuat project website Blog"
+        ]
+      },
+      {
+        "id": 355,
+        "name": "Add Media and Project Page",
+        "number": 11,
+        "objectives": [
+          "Menambahkan elemen video dan audio ke HTML5",
+          "Menyematkan konten media eksternal",
+          "Melanjutkan pembuatan website"
+        ]
+      },
+      {
+        "id": 356,
+        "name": "HTML Form",
+        "number": 12,
+        "objectives": [
+          "Mempelajari HTML Form untuk interaksi pengguna",
+          "Form Elements : Form, Input, Label, Text Area, dan Select tag",
+          "Form Attributes di HTML",
+          "Membuat website formulir"
+        ]
+      },
+      {
+        "id": 357,
+        "name": "Input Types and Attribute",
+        "number": 13,
+        "objectives": [
+          "Menjelajahi jenis Tag Input",
+          "Memahami Atribut Input",
+          "Melanjutkan Formulir Halaman Web"
+        ]
+      },
+      {
+        "id": 358,
+        "name": "Styling Form",
+        "number": 14,
+        "objectives": [
+          "Menambahkan CSS pada Form",
+          "Kirimkan data formulir ke Email",
+          "Melanjutkan Website"
+        ]
+      },
+      {
+        "id": 359,
+        "name": "Submit to Email and Create Modal",
+        "number": 15,
+        "objectives": [
+          "Mengsubmit data form ke email",
+          "Membuat Modal dengan HTML,CSS, dan JavaScript",
+          "Melanjutkan Website"
+        ]
+      },
+      {
+        "id": 360,
+        "name": "Image Slider Using For Each",
+        "number": 16,
+        "objectives": [
+          "Membuat Manual dan Autoplay Image Sliders",
+          "Memahami metode forEach",
+          "Cek pemahaman 2"
+        ]
+      },
+      {
+        "id": 361,
+        "name": "Exploring Tools and Create About Page",
+        "number": 17,
+        "objectives": [
+          "Menjelajahi tools untuk membuat Blob, Background, dan Waves",
+          "Melanjutkan Website"
+        ]
+      },
+      {
+        "id": 362,
+        "name": "CSS Transition and Animation",
+        "number": 18,
+        "objectives": [
+          "Mempelajari transisi dan animasi CSS",
+          "Mengetahui perbedaan antara transisi dan animasi",
+          "Mengimplementasikan reveal on scroll"
+        ]
+      },
+      {
+        "id": 363,
+        "name": "Responsive Website",
+        "number": 19,
+        "objectives": ["Membuat responsive website"]
+      },
+      {
+        "id": 364,
+        "name": "Create Your Own Website 1",
+        "number": 20,
+        "objectives": [
+          "Mengetahui proses development",
+          "Memilih tipe website yang akan dibuat",
+          "Membuat design website"
+        ]
+      },
+      {
+        "id": 365,
+        "name": "Create Your Own Website 2",
+        "number": 21,
+        "objectives": [
+          "Mempersiapkan Struktur Project",
+          "Membuat Header, Footer, dan Home page"
+        ]
+      },
+      {
+        "id": 366,
+        "name": "Create Your Own Website 3",
+        "number": 22,
+        "objectives": ["Membuat Halaman Detail dan Halaman about page"]
+      },
+      {
+        "id": 367,
+        "name": "Create Your Own Website 4",
+        "number": 23,
+        "objectives": [
+          "Membuat Halaman Kontak",
+          "Membuat Website lebih responsif"
+        ]
+      },
+      {
+        "id": 368,
+        "name": "Create Your Own Website 5",
+        "number": 24,
+        "objectives": ["Deploy Situs Web ke Netlify", "Presentasi"]
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Android Apps Developer",
+    "lessons": [
+      {
+        "id": 369,
+        "name": "React Native Framework and Components",
+        "number": 1,
+        "objectives": [
+          "Introduction to React Native Framework",
+          "View, Text, Button Component",
+          "Adjusting the component's layout",
+          "Add Alert"
+        ]
+      },
+      {
+        "id": 370,
+        "name": "Styling Your Layout",
+        "number": 2,
+        "objectives": [
+          "Learn about Layout styles",
+          "Understand box models",
+          "Learn Text styles",
+          "Learn about the TouchableOpacity Component"
+        ]
+      },
+      {
+        "id": 371,
+        "name": "Flex Layout and Add Image",
+        "number": 3,
+        "objectives": [
+          "Understand flex Layout and flex direction",
+          "Adding Image Components",
+          "Learn Image Styles",
+          "Added ScrollView Component"
+        ]
+      },
+      {
+        "id": 372,
+        "name": "Props and Reusable Component",
+        "number": 4,
+        "objectives": [
+          "Study ImageBackground & Text Input Component",
+          "Study the Opacity Property",
+          "Learn Props",
+          "Learn About Reusable Components"
+        ]
+      },
+      {
+        "id": 373,
+        "name": "Add Custom Font and Icon into a Popular Layout",
+        "number": 5,
+        "objectives": [
+          "Adding custom fonts",
+          "Adding Icons",
+          "Create Popular Layout"
+        ]
+      },
+      {
+        "id": 374,
+        "name": "React Native Hooks",
+        "number": 6,
+        "objectives": [
+          "Get to know Hooks in React Native",
+          "Learn to use useState and useEffect",
+          "Learn about setTimeout"
+        ]
+      },
+      {
+        "id": 375,
+        "name": "Stack Navigation and Another Way of Using useEffect",
+        "number": 7,
+        "objectives": [
+          "Learn Stack Navigation",
+          "Learn other ways to use the useEffect Hook",
+          "Get to know the flexGrow Properties"
+        ]
+      },
+      {
+        "id": 376,
+        "name": "Review and Middle Test",
+        "number": 8,
+        "objectives": ["Review Concepts", "Middle Exam"]
+      },
+      {
+        "id": 377,
+        "name": "FlatList dan StyleSheet",
+        "number": 9,
+        "objectives": [
+          "Getting to Know FlatList in React Native",
+          "Learning StyleSheet in React Native",
+          "Create a Home Screen Movie Collection Project"
+        ]
+      },
+      {
+        "id": 378,
+        "name": "Learn More About FlatList and Sort the Data",
+        "number": 10,
+        "objectives": [
+          "Learning About Horizontal FlatList",
+          "Adding Other Components before and after FlatList",
+          "Sorting Array of Objects Data"
+        ]
+      },
+      {
+        "id": 379,
+        "name": "Ternary Operator and Combine StyleSheet with Inline Style",
+        "number": 11,
+        "objectives": [
+          "Learn About Ternary Operators",
+          "Combining StyleSheet and Inline Style",
+          "Continuing the Home Screen Movie Collection Project"
+        ]
+      },
+      {
+        "id": 380,
+        "name": "Passing Data Between Screens",
+        "number": 12,
+        "objectives": [
+          "Learning How to Send Data to Another Screen",
+          "Learning How to Receive Sent Data",
+          "Creating Movie Screen Details"
+        ]
+      },
+      {
+        "id": 381,
+        "name": "Empty FlatList and Column in FlatList",
+        "number": 13,
+        "objectives": [
+          "Showing Top 3 Data",
+          "Display Message when there is No Data in FlatList",
+          "Learn How to Add Columns to FlatList",
+          "Create Most Viewed Movie Screen"
+        ]
+      },
+      {
+        "id": 382,
+        "name": "Change the Header in Stack Navigation",
+        "number": 14,
+        "objectives": [
+          "Learning How to Change Headers",
+          "Creating a Recommended Movie Screen"
+        ]
+      },
+      {
+        "id": 383,
+        "name": "Android Apps Development 1 Exam Part 1",
+        "number": 15,
+        "objectives": ["Android Apps Development 1 Exam Part 1"]
+      },
+      {
+        "id": 384,
+        "name": "Android Apps Development 1 Exam Part 2",
+        "number": 16,
+        "objectives": ["Android Apps Development 1 Exam Part 2"]
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Python for Data Science",
+    "lessons": [
+      {
+        "id": 385,
+        "name": "Introduction to AI and Python",
+        "number": 1,
+        "objectives": [
+          "Introduction to Artificial Intelligence concepts",
+          "Introduction to Python Programming",
+          "Setting up installation for Python",
+          "Understanding basic Python syntax",
+          "Understanding Variables / Datatypes / Operators / Input using Python"
+        ]
+      },
+      {
+        "id": 386,
+        "name": "Python Data Structure",
+        "number": 2,
+        "objectives": [
+          "Learning Data Structures in Python",
+          "Understanding the usage of Lists (1D, 2D)",
+          "Understanding Methods to manipulate a List",
+          "Understanding the usage of Tuples",
+          "Create a Password Maker Project"
+        ]
+      },
+      {
+        "id": 387,
+        "name": "Dictionary",
+        "number": 3,
+        "objectives": [
+          "Understanding the concept of a Dictionary",
+          "Understanding the concept of a Dictionary",
+          "Combining multiple data structures into one",
+          "Creating a Movie Dictionary project"
+        ]
+      },
+      {
+        "id": 388,
+        "name": "Looping in Python",
+        "number": 4,
+        "objectives": [
+          "Understanding looping concepts",
+          "Understanding examples of using for Loops in Python",
+          "Understanding examples of using while Loops in Python",
+          "One-liner looping techniques",
+          "Looping exercise"
+        ]
+      },
+      {
+        "id": 389,
+        "name": "Condition in Python",
+        "number": 5,
+        "objectives": [
+          "Understanding the concept of conditions in Python",
+          "Understanding the concept of nested conditions in Python",
+          "Combining conditions with looping",
+          "Creating a Jumbled Word Project"
+        ]
+      },
+      {
+        "id": 390,
+        "name": "Function in Chatbot",
+        "number": 6,
+        "objectives": [
+          "Understanding Functions in Python",
+          "Built-in Functions in Python",
+          "User-defined Functions in Python",
+          "Scope rules in Python",
+          "Creating a Discord Chatbot using Discord.py"
+        ]
+      },
+      {
+        "id": 391,
+        "name": "Object Oriented Programming (OOP)",
+        "number": 7,
+        "objectives": [
+          "Understanding the concept of OOP",
+          "Distinguishing Object, Class, Method, and Property",
+          "Understanding the concept of inheritance in OOP",
+          "Creating a simple game using OOP"
+        ]
+      },
+      {
+        "id": 392,
+        "name": "Summary and Middle Exam",
+        "number": 8,
+        "objectives": ["Review Concepts", "Middle Exam"]
+      },
+      {
+        "id": 393,
+        "name": "Sorting and Searching Algorithm",
+        "number": 9,
+        "objectives": [
+          "Sorting Concepts",
+          "Understanding how bubble sort and insertion sort Algorithms work",
+          "Implementing the code for bubble sort and insertion sort Algorithms",
+          "Understanding how the linear search Algorithm works",
+          "Implementing the code for the linear search Algorithm"
+        ]
+      },
+      {
+        "id": 394,
+        "name": "Python Libraries and Numpy",
+        "number": 10,
+        "objectives": [
+          "Understanding what Python libraries are and examples of them",
+          "Understanding how to install Python libraries",
+          "Using the NumPy library",
+          "Creating NumPy Arrays (1D, 2D, 3D) and manipulating them",
+          "Creating a TicTacToe project using NumPy"
+        ]
+      },
+      {
+        "id": 395,
+        "name": "Pandas data frame",
+        "number": 11,
+        "objectives": [
+          "Understanding data and types of data",
+          "Understanding the importance of data",
+          "Understanding data collection mechanisms",
+          "Introduction to data processing tools (Google Colab)",
+          "Understanding how to manipulate dataframes using pandas"
+        ]
+      },
+      {
+        "id": 396,
+        "name": "Analyze the Data",
+        "number": 12,
+        "objectives": [
+          "Understanding how to define a business question",
+          "Understanding the flow of data analysis",
+          "Creating an e-commerce data analysis project",
+          "Understanding data assessment mechanisms",
+          "Understanding data cleaning mechanisms"
+        ]
+      },
+      {
+        "id": 397,
+        "name": "Exploratory data analysis",
+        "number": 13,
+        "objectives": [
+          "Understanding the stages of exploratory data analysis (EDA) in data analysis",
+          "Implementing data grouping techniques",
+          "Understanding the concept of effective data visualization",
+          "Knowing how to transform a dataset",
+          "Answering a business question"
+        ]
+      },
+      {
+        "id": 398,
+        "name": "Probability",
+        "number": 14,
+        "objectives": [
+          "Understanding the relationship between probability and Artificial Intelligence",
+          "Understanding the basic concepts of probability",
+          "Solving simple probability problems like coins and dice",
+          "Understanding the concept of distribution",
+          "Solving the birthday problem"
+        ]
+      },
+      {
+        "id": 399,
+        "name": "Review materials & Final Exam",
+        "number": 15,
+        "objectives": [
+          "Review materials",
+          "Written Exam",
+          "Coding Exam - Part 1"
+        ]
+      },
+      {
+        "id": 400,
+        "name": "Finishing the Exam",
+        "number": 16,
+        "objectives": ["Coding Exam - Part 2", "Coding Exam submission"]
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "AI Machine Learning",
+    "lessons": [
+      {
+        "id": 401,
+        "name": "What is Machine Learning ?",
+        "number": 1,
+        "objectives": [
+          "Know the relationship between AI, Machine Learning and Deep Learning",
+          "Know what Machine Learning is and its categories",
+          "Know how Machine Learning works",
+          "Using Pandas as a dataframe manipulation library"
+        ]
+      },
+      {
+        "id": 402,
+        "name": "Iris Flowers Classification",
+        "number": 2,
+        "objectives": [
+          "Know how Classification works",
+          "Distinguish between train data and testing data",
+          "Processing and Preparing the Iris Flower dataset",
+          "Reading and Visualizing datasets using Seaborn"
+        ]
+      },
+      {
+        "id": 403,
+        "name": "Iris Flowers Classification II",
+        "number": 3,
+        "objectives": [
+          "Knowing how the KNN Classifier Algorithm worksKnowing how the KNN Classifier Algorithm works",
+          "Carrying out model training using the KNN Algorithm",
+          "Conduct model evaluation",
+          "Carry out the Parameter tuning process of the trained model",
+          "Make predictions from the model that has been created"
+        ]
+      },
+      {
+        "id": 404,
+        "name": "Natural Language Processing (NLP)",
+        "number": 4,
+        "objectives": [
+          "Introduction to the concept of Natural Language Processing (NLP)",
+          "Knowing how NLP works",
+          "NLP exploration using ChatGPT",
+          "Using NLTK for NLP processes in Python"
+        ]
+      },
+      {
+        "id": 405,
+        "name": "Sentiment Analysis Vectorization",
+        "number": 5,
+        "objectives": [
+          "Understand the processes involved in Sentiment Analysis",
+          "Know the concepts of Feature Extractin and Vectorization",
+          "Create a Spotify Review Sentiment Analysis project"
+        ]
+      },
+      {
+        "id": 406,
+        "name": "Review Classification",
+        "number": 6,
+        "objectives": [
+          "Know how the Random Forest Classifier Algorithm works",
+          "Knowing how the Naive Bayes Classifier works",
+          "Increase the accuracy score of the model that has been trained"
+        ]
+      },
+      {
+        "id": 407,
+        "name": "Fake News Detection",
+        "number": 7,
+        "objectives": [
+          "Implement other uses of NLP",
+          "Create a Fake News Detection project using NLP concepts",
+          "Comparing Classification and Regression models",
+          "Understand the use of the Logistic Regression Algorithm"
+        ]
+      },
+      {
+        "id": 408,
+        "name": "Summary and Middle Exam",
+        "number": 8,
+        "objectives": ["Review Concepts", "Middle Exam"]
+      },
+      {
+        "id": 409,
+        "name": "Time Series Forecasting",
+        "number": 9,
+        "objectives": [
+          "Understanding the concept of Time Series Forecasting",
+          "Understanding the concept of a Linear Function",
+          "Understanding how the Linear Regression Algorithm works",
+          "Creating a Population Prediction project using the Linear Regression model"
+        ]
+      },
+      {
+        "id": 410,
+        "name": "Predict Future Sales",
+        "number": 10,
+        "objectives": [
+          "Know the concept of how Sales Forecasting works",
+          "Create a Sales Prediction project",
+          "Using the Plotly library for Data VIsualization",
+          "Understand the concept of Feature Engineering",
+          "Create a time data feature based on another feature"
+        ]
+      },
+      {
+        "id": 411,
+        "name": "Neural Network",
+        "number": 11,
+        "objectives": [
+          "Know the concept of Rolling Windows for data investigation",
+          "Know the concept of Exponentially Weighted Moving Average",
+          "Know the concept of Logarithmic Transformation",
+          "Know the concept of neural networks",
+          "Make predictions using neural network models"
+        ]
+      },
+      {
+        "id": 412,
+        "name": "Unsupervised Learning",
+        "number": 12,
+        "objectives": [
+          "Understanding Concept about Unsupervised learning",
+          "Identify type of Unsupervised learning",
+          "Understanding concept of Clustering using K Means Algorithm",
+          "Customer Segmentation project"
+        ]
+      },
+      {
+        "id": 413,
+        "name": "Recommendation System",
+        "number": 13,
+        "objectives": [
+          "Understanding the concept of Recommender System",
+          "Indentify the type of Recommender System",
+          "Understanding how content based filtering and collaborative filtering works",
+          "Implement it to Course Recommendation System"
+        ]
+      },
+      {
+        "id": 414,
+        "name": "Anomaly Detection with Isolated Forest",
+        "number": 14,
+        "objectives": [
+          "Understanding the detail concept of Unsupervised Anomaly Detection",
+          "Understanding the Method for Anomaly Detection",
+          "Understanding how isolated forest Algorithm works",
+          "Credit card fraud detection"
+        ]
+      },
+      {
+        "id": 415,
+        "name": "Review materials & Final Exam",
+        "number": 15,
+        "objectives": [
+          "Review materials",
+          "Written Exam",
+          "Coding Exam - Part 1"
+        ]
+      },
+      {
+        "id": 416,
+        "name": "Finishing the Exam",
+        "number": 16,
+        "objectives": ["Coding Exam - Part 2", "Coding Exam submission"]
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "name": "AI Computer Vision",
+    "lessons": [
+      {
+        "id": 417,
+        "name": "OpenCV Image Manipulation",
+        "number": 1,
+        "objectives": [
+          "Knowing Computer Vision Concept",
+          "Using OpenCV Library",
+          "Knowing Image Proccessing Concept",
+          "Knowing Blurring Technique Using OpenCV",
+          "Knowing Image Manipulation Using OpenCV"
+        ]
+      },
+      {
+        "id": 418,
+        "name": "Tensorflow and CNN",
+        "number": 2,
+        "objectives": [
+          "Know the concepts and needs of Computer Vision modeling",
+          "Knowing the architecture of the CNN model",
+          "Knowing TensorFlow tools to train the model",
+          "Create a Fashion MNIST Classification project"
+        ]
+      },
+      {
+        "id": 419,
+        "name": "Horse and Human Classification",
+        "number": 3,
+        "objectives": [
+          "Know the source of Computer Vision dataset collection",
+          "Know how to use the TensorFlow dataset",
+          "Know how to perform data augmentation using Image Data Generator",
+          "Membuat proyek Klasifikasi Kuda dan Manusia"
+        ]
+      },
+      {
+        "id": 420,
+        "name": "Face Detection",
+        "number": 4,
+        "objectives": [
+          "Using Pre-trained Models and Machine Learning Framework",
+          "Create a face detection application in images",
+          "Create a face detection application in videos"
+        ]
+      },
+      {
+        "id": 421,
+        "name": "MobileNetSSD Object Detection",
+        "number": 5,
+        "objectives": [
+          "Knowing the architecture of the Single Shot Detector (SSD) model",
+          "Can create an Object Detection project using the SSD Model",
+          "Implement an Object Detector project either in an image or in a video"
+        ]
+      },
+      {
+        "id": 422,
+        "name": "Object Detection VS Object Tracking",
+        "number": 6,
+        "objectives": [
+          "Know the concept of Object Tracking and how it works",
+          "Know the difference between Object Detection and Tracking",
+          "Know the concept of Euclidean Distance Tracker",
+          "Know the concept of countour detection",
+          "Know the concept of image thresholding"
+        ]
+      },
+      {
+        "id": 423,
+        "name": "Euclidean Distance Tracker Class",
+        "number": 7,
+        "objectives": [
+          "Applying the use of Euclidean Distance Tracker Class",
+          "Adding Unique Identification of detected Objects for tracking process",
+          "Add a \"marker\" for the Object being tracked"
+        ]
+      },
+      {
+        "id": 424,
+        "name": "Review and Middle Exam",
+        "number": 8,
+        "objectives": ["Review Concepts", "Middle Exam"]
+      },
+      {
+        "id": 425,
+        "name": "Automatic Number Plate Recognation (ANPR)",
+        "number": 9,
+        "objectives": [
+          "Know the concept of Optical Character Recognition (OCR)",
+          "Know how to manipulate Image processing for OCR",
+          "Using easyocr library for ANPR",
+          "Explore the concept of image masking and contours detection"
+        ]
+      },
+      {
+        "id": 426,
+        "name": "OCR Handwriting Recognition",
+        "number": 10,
+        "objectives": [
+          "Introduction to OCR Handwritting",
+          "Load Pretrained Model using Keras Library",
+          "Character Classification using OCR Pretained Model"
+        ]
+      },
+      {
+        "id": 427,
+        "name": "hand Landmarks Detection",
+        "number": 11,
+        "objectives": [
+          "ntroduction to MediaPipe Library for landmark detection",
+          "Using MediaPipe for Holistic Tracking",
+          "Explore the concept of Image Manipulation in Video Frames",
+          "Creating a Virtual Painter project"
+        ]
+      },
+      {
+        "id": 428,
+        "name": "Find Landmark Position",
+        "number": 12,
+        "objectives": [
+          "Find Hand Landmark Position Using enumerate() Method",
+          "Knowing About Hand Landmark Classification",
+          "Initialize the modes in the Virtual Painter project (Selection and Drawing)",
+          "Finishing the project with Video Frame Masking technique"
+        ]
+      },
+      {
+        "id": 429,
+        "name": "Mediapipe Face Mesh",
+        "number": 13,
+        "objectives": [
+          "Knowing the anatomy of the Face Mesh in MediaPipe",
+          "Draw landmarks using the Face Mesh Landmark model",
+          "Create a Pig Face Filter project using MediaPipe"
+        ]
+      },
+      {
+        "id": 430,
+        "name": "Mediapipe Facial Area",
+        "number": 14,
+        "objectives": [
+          "Understand the implementation of Face Mesh Landmark",
+          "Know the Facial Area in the MediaPipe",
+          "Create a Face Filter Dragon Project project",
+          "Create a Face Mesh Class to detect Facial Areas"
+        ]
+      },
+      {
+        "id": 431,
+        "name": "Detect Mouth and Eye",
+        "number": 15,
+        "objectives": [
+          "Identify whether the mouth is open or not",
+          "Identifying landmark numbers on facial mesh",
+          "Perform video masking to paste filter effects into frames"
+        ]
+      },
+      {
+        "id": 432,
+        "name": "Summary and Finalle Exam",
+        "number": 16,
+        "objectives": ["Review Concepts", "Final Exam"]
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Tech Explorer",
+    "lessons": [
+      {
+        "id": 433,
+        "name": "Introduction to Coding and Algorithms",
+        "number": 1,
+        "objectives": [
+          "Understanding Game Loop Addiction",
+          "Understanding Coding as a Computer Language",
+          "Arrange Coding According to the Correct Algorithm"
+        ]
+      },
+      {
+        "id": 434,
+        "name": "Introduction to the Cue/Dash Robot",
+        "number": 2,
+        "objectives": [
+          "Understanding the Concept of Probability (RNG) in Games",
+          "Understanding the Concept of Events as Triggers in Coding",
+          "Building Code Blocks Based on Events and Actions"
+        ]
+      },
+      {
+        "id": 435,
+        "name": "Introducing Virtual Reality",
+        "number": 3,
+        "objectives": [
+          "Understanding the Right Game Top Up Strategies",
+          "Understanding Virtual Reality"
+        ]
+      },
+      {
+        "id": 436,
+        "name": "Introduction to the World of Augmented Reality",
+        "number": 4,
+        "objectives": [
+          "Understanding the concept of infinite scrolling and how to address it",
+          "Capable of designing the Merge Cube section of AR",
+          "Capable of Coding quizzes for objects in DelightEx edu",
+          "Capable of uploading videos and displaying them in Merge Cube"
+        ]
+      },
+      {
+        "id": 437,
+        "name": "What is Loop?",
+        "number": 5,
+        "objectives": [
+          "Understanding the Dangers of Buble Information",
+          "Learning the Concept of Loops in Osmo Coding"
+        ]
+      },
+      {
+        "id": 438,
+        "name": "Explore Advance VR Design",
+        "number": 6,
+        "objectives": [
+          "Preventing FOMO During Online Gaming Events",
+          "Creating More Advanced VR Projects"
+        ]
+      },
+      {
+        "id": 439,
+        "name": "Explore Advance AR Design",
+        "number": 7,
+        "objectives": [
+          "Be able to understand the concept of daily logins in video games and how to avoid video game addiction",
+          "Understanding the concept of simple home design",
+          "Understanding Color Concepts in 3D Design",
+          "Adding Animations and text to Delightex Edu"
+        ]
+      },
+      {
+        "id": 440,
+        "name": "Exam",
+        "number": 8,
+        "objectives": ["Overview Meeting 1-7", "Exam Level Xplorer 1"]
+      },
+      {
+        "id": 441,
+        "name": "Learning Online Safety Using Scratch",
+        "number": 9,
+        "objectives": [
+          "Identifying the “Stranger Danger” Threat in the Digital World",
+          "Using the Basic Scratch Interface",
+          "Implementing Event Handlers and Loops in Animations"
+        ]
+      },
+      {
+        "id": 442,
+        "name": "Motion in Scratch",
+        "number": 10,
+        "objectives": [
+          "Understanding the Definition of Motion Block Coding in Scratch",
+          "Identifying the Motion Blocks Available in Scratch",
+          "Identifying When to Use Motion Block Coding in Scratch",
+          "Creating a Project in Scratch Using Motion Blocks"
+        ]
+      },
+      {
+        "id": 443,
+        "name": "Understanding AI Using Looks Coding",
+        "number": 11,
+        "objectives": [
+          "Getting to Know Block Coding in the “Looks” Tab in Scratch",
+          "Identifying the Purpose of Each Block of Code in the “Looks” Tab",
+          "Identifying When to Use Block Coding in the “Looks” Tab",
+          "Implementing Block Coding in the “Looks” Tab in a Simple Project"
+        ]
+      },
+      {
+        "id": 444,
+        "name": "Sounds in Scratch",
+        "number": 12,
+        "objectives": [
+          "Understanding the Definition of Block Coding Sounds in Scratch",
+          "Be Able to Identify the Sound Blocks Available in Scratch",
+          "Be able to identify when to use Sound blocks in Scratch",
+          "Be able to create a project in Scratch using Block Coding motion",
+          "Be Able to Edit Sound in Scratch"
+        ]
+      },
+      {
+        "id": 445,
+        "name": "Events in Scratch",
+        "number": 13,
+        "objectives": [
+          "Analyzing Digital Security Through QR Codes",
+          "Understanding Event Block Structures in Scratch",
+          "Mastering the Logic of Inter-Character Communication (Broadcast)"
+        ]
+      },
+      {
+        "id": 446,
+        "name": "Control in Scratch",
+        "number": 14,
+        "objectives": [
+          "Understanding the Benefits and Security of Cloud Storage",
+          "Mastering Loop Control",
+          "Implementing Conditional Logic"
+        ]
+      },
+      {
+        "id": 447,
+        "name": "Sensing in Scratch",
+        "number": 15,
+        "objectives": [
+          "Understanding the Concept of Search Engines",
+          "Understanding the Definition of Block Coding and Sensing in Scratch",
+          "Be Able to Identify the Sensing Blocks Available in Scratch",
+          "Be Able to Identify When to Use Block Coding and Sensing in Scratch",
+          "Be Able to Create Projects in Scratch Using Block Coding and Sensors"
+        ]
+      },
+      {
+        "id": 448,
+        "name": "Exam 2",
+        "number": 16,
+        "objectives": [
+          "Understanding the Benefits and Security of Cloud Storage",
+          "Overview Meeting 9-15",
+          "Written Exam",
+          "Coding Exam"
+        ]
+      },
+      {
+        "id": 449,
+        "name": "Operator in Scratch",
+        "number": 17,
+        "objectives": [
+          "Ability to Create Strong Passwords",
+          "Understanding the Definition of the Block Coding Operator in Scratch",
+          "Be able to identify the Block Coding Operators available in Scratch",
+          "Be able to identify when to use Block Coding Operators in Scratch",
+          "Be able to create projects in Scratch using Block Coding"
+        ]
+      },
+      {
+        "id": 450,
+        "name": "Variable in Scratch",
+        "number": 18,
+        "objectives": [
+          "Understanding the Concept of Deepfakes",
+          "Understanding the Definition of Block Coding Variables in Scratch",
+          "Be Able to Identify the Block Coding Variables Available in Scratch",
+          "Be Able to Identify When to Use Variable Blocks in Scratch",
+          "Be Able to Create Projects in Scratch Using Block Coding and Variables",
+          "Introduction to Variables and Lists"
+        ]
+      },
+      {
+        "id": 451,
+        "name": "My Blocks in Scratch",
+        "number": 19,
+        "objectives": [
+          "Understanding the Concept of Automation in Everyday Life",
+          "Understanding the Concept of Functions in Coding",
+          "Getting to Know Block Coding with My Blocks in Scratch"
+        ]
+      },
+      {
+        "id": 452,
+        "name": "AI Edu Delightex",
+        "number": 20,
+        "objectives": [
+          "Understanding the Basics of Generative AI Technology",
+          "Mastering Effective Prompting Techniques",
+          "Applying Ethics and Integrity in AI Work",
+          "Integrating AI Buddy into the Delightex Educational VR Environment"
+        ]
+      },
+      {
+        "id": 453,
+        "name": "Collecting Game Assets with AI Tools",
+        "number": 21,
+        "objectives": [
+          "Understanding How to Come Up with Game Project Ideas",
+          "Collecting Game Project Assets from Both the Internet and AI"
+        ]
+      },
+      {
+        "id": 454,
+        "name": "AI Voice Maker",
+        "number": 22,
+        "objectives": [
+          "Understanding the Technology Behind AI Voice",
+          "Integrating Audio Assets into Digital Project Design",
+          "Continuing the Design Process with Collected Game Assets"
+        ]
+      },
+      {
+        "id": 455,
+        "name": "AI Ethics",
+        "number": 23,
+        "objectives": [
+          "Addressing the Concept of Ownership in AI Art",
+          "Completing the Coding Phase of the Final Project",
+          "Understanding What Needs to Be Done When Coding the Final Project"
+        ]
+      },
+      {
+        "id": 456,
+        "name": "Presenting Digital Projects",
+        "number": 24,
+        "objectives": [
+          "Understanding the Key Points in a Presentation",
+          "Taking the Written Exam Carefully",
+          "Presenting a Project Effectively"
+        ]
+      }
+    ]
+  }
+]
