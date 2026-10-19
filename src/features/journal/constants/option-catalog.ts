@@ -70,6 +70,11 @@ const CHARACTER_TONES: Record<string, Tone> = {
   unmotivated: 'needs attention',
 }
 
+export const LANGUAGE_OPTIONS = [
+  { value: 'Indonesian', label: 'ID' },
+  { value: 'English', label: 'EN' },
+]
+
 const labelByValue = (
   options: { value: string; label: string }[],
   value: string,

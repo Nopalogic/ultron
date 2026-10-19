@@ -19,6 +19,7 @@ export const useJournalForm = () => {
       time: '',
       class: '',
       name: '',
+      language: 'Indonesian',
       courseId: '',
       courseOtherText: '',
       lessons: [],

@@ -15,6 +15,15 @@ import { JournalPreview } from '../components/journal-preview'
 import { useJournalForm } from '../hooks/use-journal-form'
 import { coursesQueryOptions } from '../queries'
 import { buildLessonList, journalFormatter } from '../utils/journal-formatter'
+import {
+  Select,
+  SelectContent,
+  SelectGroup,
+  SelectItem,
+  SelectTrigger,
+  SelectValue,
+} from '@/components/ui/select'
+import { LanguageField } from '../components/language-field'
 
 export default function JournalCreate() {
   const { data: courses } = useSuspenseQuery(coursesQueryOptions())
