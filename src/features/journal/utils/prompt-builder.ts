@@ -89,7 +89,7 @@ function buildWithLesson({
   WRITING STYLE
   - Polite and casual, yet professional (not stiff or formal like an official letter).
   - Use the word “lesson” instead of “material.”
-  - Write in Indonesian.
+  - Write in ${data.language}.
 
   HOW TO READ THE DATA
   Each item under “Progress” and “Character” below is tagged in square brackets, for example: “Consistent [positive].” These tags indicate the tone you should use when writing about that item; they are NOT text that should be copied into your journal:
@@ -145,7 +145,7 @@ function buildWithoutLesson({ data }: { data: JournalValues }) {
 
   WRITING STYLE
   - Polite and casual, yet professional (not stiff or formal like an official letter).
-  - Write in Indonesian.
+  - Write in ${data.language}.
 
   HOW TO INTERPRET THE DATA
   Each item under Progress and Character below is tagged in square brackets, for example: “Consistent [positive]”. These tags indicate the tone you should use when writing that item; they are NOT text that should be copied into the journal:

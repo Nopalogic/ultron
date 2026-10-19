@@ -19,6 +19,7 @@ export const journalSchema = z
       ),
     name: z.string().min(1, 'Student name is required'),
     class: z.string().min(1, 'Class is required'),
+    language: z.enum(['Indonesian', 'English']),
     courseId: z.string().optional(),
     courseOtherText: z.string().optional(),
     lessons: z.array(lesson),
