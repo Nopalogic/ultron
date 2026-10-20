@@ -34,5 +34,5 @@ export function buildLessonList(
   return course.lessons
     .filter((lesson) => selected.has(lesson.id))
     .map(formatLessonLabel)
-    .join(', ')
+    .join('\n')
 }
